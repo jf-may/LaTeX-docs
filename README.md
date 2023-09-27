@@ -1,2 +1,2 @@
-# LaTeX-docs
-# by JF-May
+LaTeX-docs
+by JF-May

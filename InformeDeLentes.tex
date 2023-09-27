@@ -1,34 +1,34 @@
 \documentclass[a4paper,12pt]{article}
 
 \usepackage[table]{xcolor}%TABLAS
-\usepackage{booktabs}
-\usepackage{multirow}
-\usepackage{colortbl}
 \usepackage[hypcap=false, font=small]{caption}
 \usepackage{multicol}%poder colocar columnas
 \usepackage{amsmath} %formulas
 \usepackage{amssymb} %simbolos
 \usepackage{amsfonts} 
-\usepackage{array}
-\usepackage{verbatim}%escribir sin codigos y comentarios multilinea
 \usepackage{xcolor}%cambiar el color del texto
-\usepackage{siunitx}%unidades del sistema internacional
-\usepackage{subcaption}%leyendas en objetos que tienen su leyenda
-\usepackage{fancyhdr}%personalizar encabezado y pie de pagina
-\usepackage{longtable}%crear tablas largas
-\usepackage{hyperref}%crear e insertar links
 \usepackage[utf8]{inputenc} %facilitar la escritura en español 
 \usepackage{graphicx}% figuras
 \usepackage[spanish,es-tabla]{babel} %tipografia del idioma
-%\usepackage{biblatex}%bibliografia automatica apartir de base bib
-\usepackage{blindtext}%texto de relleno
-\usepackage{grffile}
-\usepackage{mathrsfs}
+\usepackage{booktabs} %toprule, midrule, etc.
 \usepackage{multirow}
-\usepackage{siunitx}
-\usepackage{soul}%subrayar
+%\usepackage{biblatex}%bibliografia automatica apartir de base bib
 
-\graphicspath{{./Fotos}}
+%\usepackage{array}
+%\usepackage{verbatim}%escribir sin codigos y comentarios multilinea
+%\usepackage{siunitx}%unidades del sistema internacional
+%\usepackage{subcaption}%leyendas en objetos que tienen su leyenda
+%\usepackage{fancyhdr}%personalizar encabezado y pie de pagina
+%\usepackage{longtable}%crear tablas largas
+%\usepackage{colortbl}
+%\usepackage{hyperref}%crear e insertar links
+%\usepackage{blindtext}%texto de relleno
+%\usepackage{grffile}
+%\usepackage{mathrsfs}
+%\usepackage{siunitx}
+%\usepackage{soul}%subrayar
+
+%\graphicspath{{./Fotos/}}
 
 \newenvironment{Figure}
   {\par\medskip\noindent\minipage{\linewidth}}
@@ -45,13 +45,29 @@
 \author{Iker Algañaraz, May Juarez F., Gastón A. Lozano S., Belén N. Paz}
 \date{}
 
+%  PORTADA
+%\begin{titlepage}
+%    \centering
+%    {\bfseries\LARGE Universidad Nacional de Tucumán \par}
+%    \vspace{1cm}
+%    {\scshape\Large Facultad de ciencias exactas y tecnología \par}
+%    \vspace{3cm}
+%    {\scshape\Huge Informe de Laboratorio IV \par}
+%    \vspace{3cm}
+%    {\itshape\Large Formación de imágenes por refracción con lentes \par}
+%    \vfill
+%    {\Large Autores: \par}
+%    {\Large Iker Algañaraz, May Juarez F., Gastón A. Lozano S., Belén N. Paz \par}
+%    \vfill
+%\end{titlepage}
+
 \begin{document}
 
 \maketitle
 
 \section*{Resumen}
 
-    En este informe se comprobó la aplicabilidad del modelo que relaciona la distancia imagen de una lente con la distancia objeto, tanto para lentes convergentes como para lentes divergentes. Se controló además los supuestos del modelo, como las aberraciones cromáticas y esféricas, y se concluyó que era aplicable en ambos casos.
+    En este informe se comprobó la aplicabilidad del modelo que relaciona la distancia imagen de una lente con la distancia objeto, tanto para lentes convergentes como para lentes divergentes. Se controló además los supuestos del modelo, como las aberraciones cromáticas y esféricas, y se concluyó que era aplicable en ambos casos
 
 \medskip
 
@@ -95,7 +111,7 @@
 
     \begin{Figure}
         \centering
-        \includegraphics[width=0.7\linewidth]{Rayos LD.jpg}
+        \includegraphics[width=0.7\linewidth]{RayosLD.jpg}
         \captionof{figure}{Lente divergente}
         \label{Rayos LD}
     \end{Figure}
@@ -107,12 +123,12 @@
         % Diagrama de rayos LC
         \begin{Figure}
             \centering
-            \includegraphics[width=1\linewidth]{Diagrama de rayos LC 1.jpg}
+            \includegraphics[width=1\linewidth]{DiagramaRayosLC1.jpg}
         \end{Figure}
 
         \begin{Figure}
             \centering
-            \includegraphics[width=0.7\linewidth]{Diagrama de rayos LC 2.jpg}
+            \includegraphics[width=0.7\linewidth]{DiagramaRayosLC2.jpg}
             \captionof{figure}{Diagrama de rayos, lente convergente}
             \label{Diag rayos LC}
         \end{Figure}
@@ -132,7 +148,7 @@
         % Diagrama de rayos LD
         \begin{Figure}
             \centering
-            \includegraphics[width=0.9\linewidth]{Diag de rayos LD.png}
+            \includegraphics[width=0.9\linewidth]{DiagRayosLD.png}
             \captionof{figure}{Diagrama de rayos, lente divergente}
             \label{f: rayos LD}
         \end{Figure}
@@ -154,14 +170,14 @@
         %aberraciones
         \begin{Figure}
             \centering
-            \includegraphics[width=0.7\linewidth]{Aberracion esfericaa.png}
+            \includegraphics[width=0.7\linewidth]{AberracionEsferica.png}
             \captionof{figure}{Aberración esférica}
             \label{f:abesf}
         \end{Figure}
 
         \begin{Figure}
             \centering
-            \includegraphics[width=0.7\linewidth]{ab cromatica.jpg}
+            \includegraphics[width=0.7\linewidth]{AberracionCromatica.jpg}
             \captionof{figure}{Aberración crómatica}
             \label{f: abcro}
         \end{Figure}
@@ -181,7 +197,7 @@
         % Diagrama lente convergente
         \begin{Figure}
             \centering
-            \includegraphics[width=1\linewidth]{Lente convergente.jpg}
+            \includegraphics[width=1\linewidth]{LenteConvergente.jpg}
             \captionof{figure}{Sistema experimental lente convergente}
             \label{PASCOconv}
         \end{Figure}
@@ -269,7 +285,7 @@
 
         \begin{Figure}
             \centering
-            \includegraphics[width=1\linewidth]{Grafica LC.png}
+            \includegraphics[width=1\linewidth]{GraficaLC.png}
             \captionof{figure}{1/i vs 1/o para lente convergente}
             \label{grafica lc}
         \end{Figure}
@@ -328,7 +344,7 @@
 
         \begin{Figure}
             \centering
-            \includegraphics[width=1\linewidth]{Lente divergente.jpg}
+            \includegraphics[width=1\linewidth]{LenteDivergente.jpg}
             \captionof{figure}{Grafica de $i^{-1}$ vs $o^{-1}$ para la lente divergente}
             \label{fig:Lentediv}
         \end{Figure}
@@ -353,14 +369,14 @@
         %diafragmas
         \begin{Figure}
             \centering
-            \includegraphics[width=0.7\linewidth]{Diafragma paraxial.JPG}
+            \includegraphics[width=0.7\linewidth]{DiafragmaParaxial.jpg}
             \captionof{figure}{Diafragma paraxial}
             \label{f: Dparax}
         \end{Figure}
 
         \begin{Figure}
             \centering
-            \includegraphics[width=0.7\linewidth]{Diafragma marginal.JPG}
+            \includegraphics[width=0.7\linewidth]{DiafragmaMarginal.jpg}
             \captionof{figure}{Diafragma marginal}
             \label{f: Dmarg}
         \end{Figure}

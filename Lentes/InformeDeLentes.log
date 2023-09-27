@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9.24) (preloaded format=pdflatex 2023.9.27)  27 SEP 2023 02:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9.24) (preloaded format=pdflatex 2023.9.27)  27 SEP 2023 03:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -542,24 +542,24 @@ LaTeX Info: Redefining \% on input line 22.
 )
 \openout1 = `InformeDeLentes.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count348
@@ -589,23 +589,23 @@ Package caption Info: End \AtBeginDocument code.
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-spanish.trsl
 File: translations-basic-dictionary-spanish.trsl (spanish translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 64.
-Package hyperref Info: Link coloring OFF on input line 64.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 48.
+Package hyperref Info: Link coloring OFF on input line 48.
  (InformeDeLentes.out) (InformeDeLentes.out)
 \@outlinefile=\write3
 \openout3 = `InformeDeLentes.out'.
 
-LaTeX Info: Redefining \. on input line 64.
-LaTeX Info: Redefining \% on input line 64.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 67.
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 51.
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 67.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 51.
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 67.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 51.
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 ) [1
@@ -614,74 +614,74 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 <./Fotos/LenteConvergente1.jpg, id=28, 92.84688pt x 79.79813pt>
 File: ./Fotos/LenteConvergente1.jpg Graphic file (type jpg)
 <use ./Fotos/LenteConvergente1.jpg>
-Package pdftex.def Info: ./Fotos/LenteConvergente1.jpg  used on input line 105.
+Package pdftex.def Info: ./Fotos/LenteConvergente1.jpg  used on input line 89.
 (pdftex.def)             Requested size: 139.71048pt x 120.0792pt.
 <./Fotos/Rayos LD.jpg, id=30, 139.01938pt x 107.40125pt>
 File: ./Fotos/Rayos LD.jpg Graphic file (type jpg)
 <use ./Fotos/Rayos LD.jpg>
-Package pdftex.def Info: ./Fotos/Rayos LD.jpg  used on input line 114.
+Package pdftex.def Info: ./Fotos/Rayos LD.jpg  used on input line 98.
 (pdftex.def)             Requested size: 162.99318pt x 125.92442pt.
 <./Fotos/Diagrama de rayos LC 1.jpg, id=33, 208.27812pt x 69.76062pt>
 File: ./Fotos/Diagrama de rayos LC 1.jpg Graphic file (type jpg)
 <use ./Fotos/Diagrama de rayos LC 1.jpg>
-Package pdftex.def Info: ./Fotos/Diagrama de rayos LC 1.jpg  used on input line 126.
+Package pdftex.def Info: ./Fotos/Diagrama de rayos LC 1.jpg  used on input line 110.
 (pdftex.def)             Requested size: 232.84843pt x 77.99402pt.
 <./Fotos/Diagrama de rayos LC 2.jpg, id=34, 147.55125pt x 69.25874pt>
 File: ./Fotos/Diagrama de rayos LC 2.jpg Graphic file (type jpg)
 <use ./Fotos/Diagrama de rayos LC 2.jpg>
-Package pdftex.def Info: ./Fotos/Diagrama de rayos LC 2.jpg  used on input line 131.
+Package pdftex.def Info: ./Fotos/Diagrama de rayos LC 2.jpg  used on input line 115.
 (pdftex.def)             Requested size: 162.99318pt x 76.50821pt.
 <./Fotos/Diag de rayos LD.png, id=36, 144.03813pt x 74.2775pt>
 File: ./Fotos/Diag de rayos LD.png Graphic file (type png)
 <use ./Fotos/Diag de rayos LD.png>
-Package pdftex.def Info: ./Fotos/Diag de rayos LD.png  used on input line 151.
+Package pdftex.def Info: ./Fotos/Diag de rayos LD.png  used on input line 135.
 (pdftex.def)             Requested size: 209.56216pt x 108.07135pt.
  [2 <./Fotos/LenteConvergente1.jpg> <./Fotos/Rayos LD.jpg> <./Fotos/Diagrama de rayos LC 1.jpg> <./Fotos/Diagrama de rayos LC 2.jpg>]
 <./Fotos/Aberracion esfericaa.png, id=52, 224.33812pt x 159.09438pt>
 File: ./Fotos/Aberracion esfericaa.png Graphic file (type png)
 <use ./Fotos/Aberracion esfericaa.png>
-Package pdftex.def Info: ./Fotos/Aberracion esfericaa.png  used on input line 173.
+Package pdftex.def Info: ./Fotos/Aberracion esfericaa.png  used on input line 157.
 (pdftex.def)             Requested size: 162.99318pt x 115.59413pt.
 <./Fotos/ab cromatica.jpg, id=53, 259.97125pt x 159.09438pt>
 File: ./Fotos/ab cromatica.jpg Graphic file (type jpg)
 <use ./Fotos/ab cromatica.jpg>
-Package pdftex.def Info: ./Fotos/ab cromatica.jpg  used on input line 180.
+Package pdftex.def Info: ./Fotos/ab cromatica.jpg  used on input line 164.
 (pdftex.def)             Requested size: 162.99318pt x 99.74687pt.
  [3 <./Fotos/Diag de rayos LD.png> <./Fotos/Aberracion esfericaa.png> <./Fotos/ab cromatica.jpg>]
 <./Fotos/Lente convergente.jpg, id=69, 1442.38875pt x 733.99219pt>
 File: ./Fotos/Lente convergente.jpg Graphic file (type jpg)
 <use ./Fotos/Lente convergente.jpg>
-Package pdftex.def Info: ./Fotos/Lente convergente.jpg  used on input line 200.
+Package pdftex.def Info: ./Fotos/Lente convergente.jpg  used on input line 184.
 (pdftex.def)             Requested size: 232.84843pt x 118.48273pt.
 <./Fotos/DLCX.jpg, id=71, 1442.38875pt x 733.99219pt>
 File: ./Fotos/DLCX.jpg Graphic file (type jpg)
 <use ./Fotos/DLCX.jpg>
-Package pdftex.def Info: ./Fotos/DLCX.jpg  used on input line 212.
+Package pdftex.def Info: ./Fotos/DLCX.jpg  used on input line 196.
 (pdftex.def)             Requested size: 232.84843pt x 118.48273pt.
  [4 <./Fotos/Lente convergente.jpg> <./Fotos/DLCX.jpg>]
 <./Fotos/Grafica LC.png, id=86, 667.0521pt x 529.4982pt>
 File: ./Fotos/Grafica LC.png Graphic file (type png)
 <use ./Fotos/Grafica LC.png>
-Package pdftex.def Info: ./Fotos/Grafica LC.png  used on input line 288.
+Package pdftex.def Info: ./Fotos/Grafica LC.png  used on input line 272.
 (pdftex.def)             Requested size: 232.84843pt x 184.8262pt.
  [5 <./Fotos/Grafica LC.png>]
 <./Fotos/Lente divergente.jpg, id=106, 667.7748pt x 492.8814pt>
 File: ./Fotos/Lente divergente.jpg Graphic file (type jpg)
 <use ./Fotos/Lente divergente.jpg>
-Package pdftex.def Info: ./Fotos/Lente divergente.jpg  used on input line 347.
+Package pdftex.def Info: ./Fotos/Lente divergente.jpg  used on input line 331.
 (pdftex.def)             Requested size: 232.84843pt x 171.86429pt.
 <./Fotos/Diafragma paraxial.JPG, id=112, 570.63188pt x 685.8122pt>
 File: ./Fotos/Diafragma paraxial.JPG Graphic file (type jpg)
 <use ./Fotos/Diafragma paraxial.JPG>
-Package pdftex.def Info: ./Fotos/Diafragma paraxial.JPG  used on input line 372.
+Package pdftex.def Info: ./Fotos/Diafragma paraxial.JPG  used on input line 356.
 (pdftex.def)             Requested size: 162.99318pt x 195.88756pt.
 <./Fotos/Diafragma marginal.JPG, id=113, 566.115pt x 680.5425pt>
 File: ./Fotos/Diafragma marginal.JPG Graphic file (type jpg)
 <use ./Fotos/Diafragma marginal.JPG>
-Package pdftex.def Info: ./Fotos/Diafragma marginal.JPG  used on input line 379.
+Package pdftex.def Info: ./Fotos/Diafragma marginal.JPG  used on input line 363.
 (pdftex.def)             Requested size: 162.99318pt x 195.94pt.
  [6 <./Fotos/Lente divergente.jpg> <./Fotos/Diafragma paraxial.JPG>]
-Overfull \hbox (31.6957pt too wide) in paragraph at lines 396--410
+Overfull \hbox (31.6957pt too wide) in paragraph at lines 380--394
  [][] 
  []
 

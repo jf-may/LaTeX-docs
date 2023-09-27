@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1695794191 "c:/Users/May/LaTeX-docs/Lentes/InformeDeLentes.tex" "InformeDeLentes.pdf" "InformeDeLentes" 1695794192 0
+["pdflatex"] 1695794537 "c:/Users/May/LaTeX-docs/Lentes/InformeDeLentes.tex" "InformeDeLentes.pdf" "InformeDeLentes" 1695794539 0
   "C:/Users/May/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1695793835 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/May/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1695793104 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/May/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs5.tfm" 1695793106 684 3a51bd4fd9600428d5264cf25f04bb9a ""
@@ -140,10 +140,10 @@
   "Fotos/LenteConvergente1.jpg" 1695802938 15482 cb304eea206d6810bcbf3fbfc5e6a4fc ""
   "Fotos/Rayos LD.jpg" 1695802938 20675 a95c630862bb3a9bb57503c194d30154 ""
   "Fotos/ab cromatica.jpg" 1695802938 32499 76b0cbdbfc4ef5e6cd3b03e9e0293434 ""
-  "InformeDeLentes.aux" 1695794192 4499 c91e5d6a504820476bca4df2df4482c0 "pdflatex"
-  "InformeDeLentes.out" 1695794192 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "InformeDeLentes.tex" 1695794190 23699 517e654d0c96a29e809515b77707db9a ""
-  "c:/Users/May/LaTeX-docs/Lentes/InformeDeLentes.tex" 1695794190 23699 517e654d0c96a29e809515b77707db9a ""
+  "InformeDeLentes.aux" 1695794539 4499 c91e5d6a504820476bca4df2df4482c0 "pdflatex"
+  "InformeDeLentes.out" 1695794538 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "InformeDeLentes.tex" 1695794537 23181 d68a9b4445b5b6f5ed2422e580a0805f ""
+  "c:/Users/May/LaTeX-docs/Lentes/InformeDeLentes.tex" 1695794537 23181 d68a9b4445b5b6f5ed2422e580a0805f ""
   (generated)
   "InformeDeLentes.aux"
   "InformeDeLentes.log"

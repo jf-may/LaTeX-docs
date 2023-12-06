@@ -72,12 +72,12 @@
         \vspace*{2cm}
 
         \Huge
-        Aplicación de fuerzas ferromagnéticas \\
+        Estudio de fuerzas ferromagnéticas \\
         usando un motor de solenoide
 
         \vspace{1cm}
 
-        \Large
+        \LARGE
         Juarez Ferriol May
 
         \vspace{1cm}
@@ -86,6 +86,7 @@
 
         \vspace{1cm}
 
+        \Large
         Licenciatura en Física
 
         Facultad de Ciencias Exactas y Tecnología
@@ -120,7 +121,25 @@
 
 \section*{Marco teórico}
 
+    \subsection*{Campo magnético de un solenoide infinito}
+
+        Un solenoide es cualquier dispositivo físico capaz de crear un campo magnético sumamente uniforme e intenso en su interior, y muy débil en el exterior. Un ejemplo teórico es el de una bobina de hilo conductor aislado y enrollado helicoidalmente, de longitud infinita. En ese caso ideal el campo magnético sería uniforme en su interior y fuera sería nulo.
+
+        En la práctica, una aproximación real a un solenoide es un alambre aislado, de longitud finita, enrollado en forma de hélice (bobina), por el que circula una corriente eléctrica. Cuando esto sucede, se genera un campo magnético dentro de la bobina tanto más uniforme cuanto más larga sea la bobina.
+
+        En el caso de un solenoide infinito en el vacío, se puede obtener el módulo del campo magnético con la ecuación (\ref{eq: campoMagneticoSolenoideInfinito}), donde $\mu_0$ es la constante magnética, N el número de vueltas de la bobina, I la corriente, y l la longitud del solenoide.
+
+        \begin{equation}
+            \label{eq: campoMagneticoSolenoideInfinito}
+            B = \frac{\mu_0 N I}{l}
+        \end{equation}
+
+    \subsection*{Campo magnético de un solenoide finito}
     
+        \begin{equation}
+            \label{eq: campoMagneticoSolenoideFinito}
+            B = \frac{\mu_0 N I}{2l} \left[ \frac{L/2 - x}{\sqrt{(L/2 - x)^2 + r^2}} + \frac{L/2 + x}{\sqrt{(L/2 + x)^2 + r^2}} \right]
+        \end{equation}
 
 \section*{Materiales, métodos y recolección de datos}
 
@@ -221,4 +240,3 @@
 %     \label{eq:}
 %     ...
 % \end{equation}
-%

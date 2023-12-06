@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.29)  6 DEC 2023 18:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.29)  6 DEC 2023 18:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -447,30 +447,19 @@ Package hyperref Info: Link coloring OFF on input line 66.
 \@outlinefile=\write3
 \openout3 = `"Proyecto EyM.out"'.
 
+<./Fotos/unt.jpg, id=3, 132.2541pt x 169.1118pt>
+File: ./Fotos/unt.jpg Graphic file (type jpg)
+<use ./Fotos/unt.jpg>
+Package pdftex.def Info: ./Fotos/unt.jpg  used on input line 85.
+(pdftex.def)             Requested size: 169.29684pt x 216.48299pt.
+ [1
 
-
-LaTeX Warning: File `unt.jpg' not found on input line 85.
-
-
-c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Proyecto EyM Español/Proyecto EyM.tex:85: Package pdftex.def Error: File `unt.jpg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...udegraphics[width=0.35\textwidth]{unt.jpg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[1
-
-{C:/Users/May/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+{C:/Users/May/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Fotos/unt.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.159 \end{multicols*}
-                       [1] (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.aux
+l.153 \end{document}
+                     [1] (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -482,17 +471,17 @@ Package rerunfilecheck Info: File `"Proyecto EyM".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13084 strings out of 474587
- 210206 string characters out of 5746645
+ 13058 strings out of 474587
+ 209757 string characters out of 5746645
  1927558 words of memory out of 5000000
- 35113 multiletter control sequences out of 15000+600000
- 561013 words of font info for 46 fonts, out of 8000000 for 9000
+ 35087 multiletter control sequences out of 15000+600000
+ 560224 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,341b,595s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.pdf" (2 pages, 71661 bytes).
+ 75i,5n,79p,341b,467s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.pdf" (2 pages, 147373 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 50 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -48,6 +48,8 @@
 
 \providecommand{\abs}[1]{\lvert#1\rvert} % Valor absoluto
 
+\renewcommand{\thefootnote}{\Roman{footnote}}
+
 \marginsize{2cm}{2cm}{1cm}{2cm} % pkg: anysize
 
 \graphicspath{{./Fotos/}} % pkg: graphicx
@@ -101,15 +103,11 @@
 
         \vspace{1cm}
 
-        Supervisor: Lic. Leal Sebastián
+        Supervisor: Prof. Leal Sebastián
 
     \end{center}
 
 \end{titlepage}
-
-\section*{Agradecimientos}
-
-
 
 \section*{Resumen}
 
@@ -121,7 +119,9 @@
 
 \section*{Marco teórico}
 
-    \subsection*{Campo magnético de un solenoide infinito en el vacío}
+    \subsection*{Campos magnéticos en solenoides}
+
+    \subsubsection*{Campo magnético de un solenoide infinito en el vacío\footnote{Cuando hablamos de algo infinito en el campo de la física, nos estamos refiriendo a valores relativos. En este caso consideramos infinito cuando el largo del solenoide es mucho mayor que el diámetro de éste.}}
 
         Un solenoide es cualquier dispositivo físico capaz de crear un campo magnético sumamente uniforme e intenso en su interior, y muy débil en el exterior. Un ejemplo teórico es el de una bobina de hilo conductor aislado y enrollado helicoidalmente, de longitud infinita. En ese caso ideal el campo magnético sería uniforme en su interior y fuera sería nulo.
 
@@ -134,7 +134,7 @@
             B_x = \frac{\mu_0 N I}{L}
         \end{equation}
 
-    \subsection*{Campo magnético de un solenoide finito en el vacío}
+    \subsubsection*{Campo magnético de un solenoide finito en el vacío}
     
         En el caso de un solenoide finito, con x = 0 siendo el centro del solenoide, y estando en el vacío, podemos calcular el campo magnético en el eje axial con la ecuación (\ref{eq: campoMagneticoSolenoideFinito}).
 
@@ -143,7 +143,7 @@
             B_x = \frac{\mu_0 N I}{2L} \left[ \frac{L/2 - x}{\sqrt{(L/2 - x)^2 + r^2}} + \frac{L/2 + x}{\sqrt{(L/2 + x)^2 + r^2}} \right]
         \end{equation}
 
-    \subsection*{Campo magnético de un solenoide con núcleo ferromagnético}
+    \subsubsection*{Campo magnético de un solenoide con un núcleo ferromagnético}
 
         Las ecuaciones que hemos discutido hasta ahora son válidas para solenoides en el vacío, lo que significa que la permeabilidad del campo magnético es la misma que la del vacío, $\mu_0$.
 
@@ -163,7 +163,7 @@
             B_x = \frac{\mu_{ef}\mu_0 N I}{L}
         \end{equation}
 
-    \subsection*{Campo magnético de un solenoide finito con núcleo ferromagnético}
+    \subsubsection*{Campo magnético de un solenoide finito con un núcleo ferromagnético}
 
         Si juntamos lo discutido anteriormente sobre el solenoide finito y el núcleo ferromagnético, llegamos a la ecuación (\ref{eq: campoMagneticoSolenoideFinitoEfectivo}).
 
@@ -181,6 +181,19 @@
 
         Como se esperaría de un sistema en donde la dirección negativa y positiva es arbitraria y no modifica nada, los campos magnéticos son simétricos respecto al punto central del solenoide.
 
+    \subsection*{Elementos magnéticos}
+
+        Los átomos que forman a toda la materia contienen electrones en movimiento, los cuáles forman espiras microscópicas de corriente que producen campos magnéticos. En muchos materiales, estas corrientes están orientadas al azar, y no generan un campo magnético neto. Sin embargo, en algunos materiales, un campo magnético externo puede causar que estas espiras se orienten de forma preferencial con el campo, de manera que sus campos magnéticos se sumen al campo exterior. En ese caso decimos que el material se ha magnetizado. 
+
+        En base a los orígenes atómicos de las propiedades magnéticas de un material, podemos discutir tres clases generales de comportamientos magnéticos, \emph{paramagnetismo}, \emph{diamagnetismo}, y \emph{ferromagnétismo}. 
+
+        El paramagnetismo y el diamagnetismo están fuera del alcance de este informe, pero en síntesis, el paramagnetismo tiene un momento magnético total $\mu_b$ que al colocarse en un campo magnético externo, éste ejerce una torca sobre cada momento magnético, de acuerdo con la ecuación $\vec{\tau} = \vec{\mu} \times \vec{B}$. Estas torcas tienden a alinear los momentos magnéticos con el campo, donde en esa posición las direcciones de las espiras de corriente son tales que se suman al campo magnético externo. El campo magnético en cualquier punto del material es mayor por un factor $\mu_r$, que para sólidos y líquidos paramagnéticos comunes, suele variar entre 1.00001 a 1.003, es decir, muy poca variación respecto a 1, además de que disminuye cuando aumenta la temperatura, al aumentar el movimiento térmico aleatorio, el cual tiende a distribuir sus orientaciones al azar.
+
+        El diamagnetismo es el material en el que ante la presencia de campos magnéticos externos, altera los movimientos de los electrones dentro de los átomos, generando espiras de corriente adicionales y dipolos magnéticos inducidos cuya dirección del campo magnético adicional provocados por éstos es siempre opuesta a la dirección del campo externo. Por lo tanto, la permeabilidad relativa es siempre ligeramente menor que 1, comúnmente del orden 0.999990 a 0.99999. Este valor es casi independiente de la temperatura.
+
+    \subsubsection*{Ferromagnetismo}
+
+        En los materiales ferromagnéticos, las interacciones fuertes entre los momentos magnéticos atómicos los llevan a alinearse paralelamente entre sí, en regiones llamadas \emph{dominios magnéticos}, aún cuando no están en presencia de un campo magnético externo. Dentro de cada uno, casi todos los momentos magnéticos atómicos  
 
 \section*{Materiales, métodos y recolección de datos}
 
@@ -202,15 +215,15 @@
 
     \subsection*{Futuras investigaciones}
 
+        
 
+\section*{Agradecimientos}
 
-\begin{thebibliography}{99}
-
-    \bibitem{} D. E. Ponzetti, \emph{Proyecto experimental: Motor solenoide.} (2018)
-
-\end{thebibliography}
+    
 
 \section*{Apéndice A - Campo magnético en los extremos del \\solenoide}
+
+Empezando por la ecuación de campo magnético de un solenoide finito con un núcleo ferromagnético (\ref{eq: campoMagneticoSolenoideFinitoEfectivo}).
 
     \begin{equation*}
         B_x = \frac{\mu_{ef}\mu_0 N I}{2L} \left[ \frac{L/2 - x}{\sqrt{(L/2 - x)^2 + r^2}} + \frac{L/2 + x}{\sqrt{(L/2 + x)^2 + r^2}} \right]
@@ -251,6 +264,15 @@ De manera análoga en el extremo derecho ($x=L/2$)
     \begin{equation*}
         B_x = \frac{\mu_{ef}\mu_0 N I}{2\sqrt{L^2 + r^2}}
     \end{equation*}
+
+\begin{thebibliography}{99}
+
+    \bibitem{} D. E. Ponzetti, \emph{Proyecto experimental: Motor solenoide.} (Tucumán, 2018)
+
+    \bibitem{} H. D. Young, R. A. Freedman, \emph{Sears and Zemansky's University Physics: with Modern Physics}, 14th ed. (Pearson, San Francisco, 2015).
+
+\end{thebibliography}
+
 
 \end{document}
 

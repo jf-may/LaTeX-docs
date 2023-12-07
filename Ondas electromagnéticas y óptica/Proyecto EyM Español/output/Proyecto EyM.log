@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.29)  7 DEC 2023 01:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.7)  7 DEC 2023 11:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Proyecto EyM Español/Proyecto EyM.tex"
-(c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Proyecto EyM Español/Proyecto EyM.tex
+**"c:/Users/May/LaTeX docs/Ondas electromagnéticas y óptica/Proyecto EyM Español/Proyecto EyM.tex"
+(c:/Users/May/LaTeX docs/Ondas electromagnéticas y óptica/Proyecto EyM Español/Proyecto EyM.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
 (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -281,33 +281,32 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@dima=\skip56
 \bigstrutjot=\dimen187
 ) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2023-11-09 v7.01f Hypertext links for LaTeX
- (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
+ (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
 ) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+ (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 ) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2023-11-09 v2.55 Cross-referencing by name of section
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
@@ -324,7 +323,7 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \Hy@linkcounter=\count294
 \Hy@pagecounter=\count295
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2023-11-09 v7.01f Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
@@ -332,23 +331,23 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count296
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2023-11-09 v7.01f Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4171.
-Package hyperref Info: Link nesting OFF on input line 4176.
-Package hyperref Info: Hyper index ON on input line 4179.
-Package hyperref Info: Plain pages OFF on input line 4186.
-Package hyperref Info: Backreferencing OFF on input line 4191.
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4438.
+Package hyperref Info: Bookmarks ON on input line 4448.
 \c@Hy@tempcnt=\count297
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4776.
+LaTeX Info: Redefining \url on input line 4786.
 \XeTeXLinkMargin=\dimen189
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -358,13 +357,13 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 \Fld@menulength=\count298
 \Field@Width=\dimen190
 \Fld@charsize=\dimen191
-Package hyperref Info: Hyper figures OFF on input line 6055.
-Package hyperref Info: Link nesting OFF on input line 6060.
-Package hyperref Info: Hyper index ON on input line 6063.
-Package hyperref Info: backreferencing OFF on input line 6070.
-Package hyperref Info: Link coloring OFF on input line 6075.
-Package hyperref Info: Link coloring with OCG OFF on input line 6080.
-Package hyperref Info: PDF/A mode OFF on input line 6085.
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
@@ -375,7 +374,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2023-11-09 v7.01f Hyperref driver for pdfTeX
+File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -390,11 +389,33 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip57
+) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count304
+\sf@farskip=\skip58
+\sf@captopadj=\dimen192
+\sf@capskip=\skip59
+\sf@nearskip=\skip60
+\c@subfigure=\count305
+\c@subfigure@save=\count306
+\c@lofdepth=\count307
+\c@subtable=\count308
+\c@subtable@save=\count309
+\c@lotdepth=\count310
+\sf@top=\skip61
+\sf@bottom=\skip62
+) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+LaTeX Info: Redefining \subref on input line 189.
+Package subcaption Info: The counter `subfigure' was already defined by
+(subcaption)             \newsubfloat (offered by the subfig package) on input line 238.
+Package subcaption Info: The counter `subtable' was already defined by
+(subcaption)             \newsubfloat (offered by the subfig package) on input line 238.
 ) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count304
+\l__color_backend_stack_int=\count311
 \l__pdf_internal_box=\box99
-) (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.aux
+) (c:\Users\May\LaTeX docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 
@@ -404,39 +425,40 @@ LaTeX Warning: Label `' multiply defined.
 )
 \openout1 = `"Proyecto EyM.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count305
-\scratchdimen=\dimen192
+\scratchcounter=\count312
+\scratchdimen=\dimen193
 \scratchbox=\box100
-\nofMPsegments=\count306
-\nofMParguments=\count307
+\nofMPsegments=\count313
+\nofMParguments=\count314
 \everyMPshowfont=\toks26
-\MPscratchCnt=\count308
-\MPscratchDim=\dimen193
-\MPnumerator=\count309
-\makeMPintoPDFobject=\count310
+\MPscratchCnt=\count315
+\MPscratchDim=\dimen194
+\MPnumerator=\count316
+\makeMPintoPDFobject=\count317
 \everyMPtoPDFconversion=\toks27
 ) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -444,39 +466,84 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
-Package hyperref Info: Link coloring OFF on input line 68.
- (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.out) (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.out)
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
+Package hyperref Info: Link coloring OFF on input line 70.
+ (c:\Users\May\LaTeX docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.out) (c:\Users\May\LaTeX docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.out)
 \@outlinefile=\write3
 \openout3 = `"Proyecto EyM.out"'.
 
 <./Fotos/unt.jpg, id=3, 132.2541pt x 169.1118pt>
 File: ./Fotos/unt.jpg Graphic file (type jpg)
 <use ./Fotos/unt.jpg>
-Package pdftex.def Info: ./Fotos/unt.jpg  used on input line 87.
+Package pdftex.def Info: ./Fotos/unt.jpg  used on input line 89.
 (pdftex.def)             Requested size: 169.29684pt x 216.48299pt.
  [1
 
 {C:/Users/May/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Fotos/unt.jpg>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 124.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 130.
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 124.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 130.
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+<./Fotos/Solenoide.jpg, id=11, 602.25pt x 351.3125pt>
+File: ./Fotos/Solenoide.jpg Graphic file (type jpg)
+<use ./Fotos/Solenoide.jpg>
+Package pdftex.def Info: ./Fotos/Solenoide.jpg  used on input line 139.
+(pdftex.def)             Requested size: 290.22107pt x 169.30351pt.
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.155         \end{equation}
-                             [1] [2] [3] [4
+l.143 
+       [1] [2 <./Fotos/Solenoide.jpg>] [3]
+<./Fotos/ferromagnetismo_dominios.jpg, id=58, 389.20406pt x 350.81062pt>
+File: ./Fotos/ferromagnetismo_dominios.jpg Graphic file (type jpg)
+<use ./Fotos/ferromagnetismo_dominios.jpg>
+Package pdftex.def Info: ./Fotos/ferromagnetismo_dominios.jpg  used on input line 214.
+(pdftex.def)             Requested size: 193.47578pt x 174.39316pt.
+<./Fotos/ferromagnetismo_campoMagneticoAplicado.png, id=59, 405.515pt x 125.46875pt>
+File: ./Fotos/ferromagnetismo_campoMagneticoAplicado.png Graphic file (type png)
+<use ./Fotos/ferromagnetismo_campoMagneticoAplicado.png>
+Package pdftex.def Info: ./Fotos/ferromagnetismo_campoMagneticoAplicado.png  used on input line 223.
+(pdftex.def)             Requested size: 290.22107pt x 89.79753pt.
+ [4 <./Fotos/ferromagnetismo_dominios.jpg> <./Fotos/ferromagnetismo_campoMagneticoAplicado.png>]
+<./Fotos/motorSolenoide_frente.jpg, id=72, 1084.05pt x 1094.0875pt>
+File: ./Fotos/motorSolenoide_frente.jpg Graphic file (type jpg)
+<use ./Fotos/motorSolenoide_frente.jpg>
+Package pdftex.def Info: ./Fotos/motorSolenoide_frente.jpg  used on input line 271.
+(pdftex.def)             Requested size: 193.47578pt x 195.25781pt.
+<./Fotos/motorSolenoide_superior.jpg, id=73, 1204.5pt x 1606.0pt>
+File: ./Fotos/motorSolenoide_superior.jpg Graphic file (type jpg)
+<use ./Fotos/motorSolenoide_superior.jpg>
+Package pdftex.def Info: ./Fotos/motorSolenoide_superior.jpg  used on input line 274.
+(pdftex.def)             Requested size: 193.47578pt x 257.96999pt.
+ [5]
+<./Fotos/mediciones_movimientoLinealCoordenadas.png, id=84, 784.9325pt x 539.01375pt>
+File: ./Fotos/mediciones_movimientoLinealCoordenadas.png Graphic file (type png)
+<use ./Fotos/mediciones_movimientoLinealCoordenadas.png>
+Package pdftex.def Info: ./Fotos/mediciones_movimientoLinealCoordenadas.png  used on input line 288.
+(pdftex.def)             Requested size: 241.84843pt x 166.07266pt.
+ [6 <./Fotos/motorSolenoide_frente.jpg> <./Fotos/motorSolenoide_superior.jpg>]
+<./Fotos/mediciones_movimientoLineal.png, id=92, 595.47469pt x 362.10281pt>
+File: ./Fotos/mediciones_movimientoLineal.png Graphic file (type png)
+<use ./Fotos/mediciones_movimientoLineal.png>
+Package pdftex.def Info: ./Fotos/mediciones_movimientoLineal.png  used on input line 297.
+(pdftex.def)             Requested size: 290.22107pt x 176.48158pt.
+<./Fotos/mediciones_movimientoLinealAcelerado.jpg, id=94, 437.38406pt x 176.91093pt>
+File: ./Fotos/mediciones_movimientoLinealAcelerado.jpg Graphic file (type jpg)
+<use ./Fotos/mediciones_movimientoLinealAcelerado.jpg>
+Package pdftex.def Info: ./Fotos/mediciones_movimientoLinealAcelerado.jpg  used on input line 311.
+(pdftex.def)             Requested size: 290.22107pt x 117.38783pt.
+ [7 <./Fotos/mediciones_movimientoLinealCoordenadas.png (PNG copy)> <./Fotos/mediciones_movimientoLineal.png> <./Fotos/mediciones_movimientoLinealAcelerado.jpg>] [8] [9
 pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.277 \end{document}
-                    ] (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.aux
+l.391 \end{document}
+                    ] (c:\Users\May\LaTeX docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -492,17 +559,17 @@ Package rerunfilecheck Info: File `"Proyecto EyM".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13147 strings out of 474587
- 211225 string characters out of 5746645
- 1936558 words of memory out of 5000000
- 35137 multiletter control sequences out of 15000+600000
- 566876 words of font info for 70 fonts, out of 8000000 for 9000
+ 13511 strings out of 474587
+ 219740 string characters out of 5746646
+ 1937558 words of memory out of 5000000
+ 35474 multiletter control sequences out of 15000+600000
+ 567484 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,1023b,467s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.pdf" (5 pages, 245598 bytes).
+ 75i,8n,79p,1023b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "c:\Users\May\LaTeX docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.pdf" (10 pages, 1334426 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 184 PDF objects out of 1000 (max. 8388607)
+ 52 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

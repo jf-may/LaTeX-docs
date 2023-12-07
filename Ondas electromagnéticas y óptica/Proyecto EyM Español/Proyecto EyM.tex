@@ -121,7 +121,7 @@
 
     El conocimiento técnico requerido para responder esta pregunta es mayor al que se suele tener cuando se ve por primera vez el tema de magnetismo, así que los libros generales de física no suelen incluir su respuesta. 
     
-    Vimos que se analizan fuerzas magnéticas entre dos materiales que cada uno genera campo magnético. Este informe busca explicar de manera sencilla y concisa cómo podemos estimar esta fuerza entre un generador de campo magnético y un elemento ferromagnético, y usarla para distintas aplicaciones, como un motor rotatorio de solenoide, usado para muchísimas aplicaciones a lo largo del mundo, o motores lineales sincrónicos, que son los usados en los portaaviones para la propulsión de aviones, o en el tren bala de Japón para su movimiento.
+    Vimos que se analizan fuerzas magnéticas entre dos materiales los cuales cada uno generan campo magnético. Este informe busca explicar de manera sencilla y concisa cómo podemos estimar esta fuerza entre un generador de campo magnético y un elemento ferromagnético, y usarla para distintas aplicaciones, como un motor rotatorio de solenoide, usado para muchísimas aplicaciones a lo largo del mundo, o motores lineales sincrónicos, que son los usados en los portaaviones para la propulsión de aviones, o en el tren bala de Japón para su movimiento.
 
 \section*{Marco teórico}
 
@@ -136,7 +136,7 @@
         \begin{Figure}
             \centering
 
-            \includegraphics[width=0.6\linewidth]{Solenoide.jpg}
+            \includegraphics[width=0.5\linewidth]{Solenoide.jpg}
             \label{fig: solenoide}
             \captionof{figure}{Solenoide en el que circula corriente. Las líneas azules representan el campo magnético}
         \end{Figure}
@@ -270,7 +270,12 @@
 
             \includegraphics[width=0.4\linewidth]{motorSolenoide_frente.jpg}
             \label{fig: motorSolenoide_frente}
-                
+
+        \end{Figure}
+        
+        \begin{Figure}
+            \centering
+            
             \includegraphics[width=0.4\linewidth]{motorSolenoide_superior.jpg}
             \label{fig: motorSolenoide_superior}
 
@@ -301,15 +306,23 @@
 
         No nos interesan los valores de movimiento que se encuentren en el eje de las abcisas, ya que estamos ante el supuesto de que el movimiento es coaxial al solenoide.
 
-        Con estos datos medidos, se calculó numéricamente la segunda derivada y se obtuvo la aceleración en función del tiempo (Fig. \ref{fig: mediciones_aceleracion}).
+        Con estos datos medidos, se calculó numéricamente la segunda derivada y se obtuvo la aceleración en función del tiempo.
 
         \begin{Figure}
             \centering
 
             \includegraphics[width=0.6\linewidth]{mediciones_aceleracion.png}
             \label{fig: mediciones_aceleracion}
-            \captionof{figure}{Gráfica de movimiento lineal del pistón para un valor de 7 V al inicio de su movimiento}
+            \captionof{figure}{Gráfica de aceleración en función del tiempo del pistón para un valor de 7 V}
         \end{Figure}
+
+        Haciendo un promedio de estas aceleraciones, podemos obtener la aceleración máxima promedio.
+
+        $a_{max} = 3.47 \ \frac{m}{s^2}$
+
+        Midiendo o estimando la masa podemos estimar la fuerza máxima que ejerce el electroimán al material ferromagnético.
+
+        Este valor luego se puede comparar a un estimado teórico.
 
 \section*{Resultados}
 

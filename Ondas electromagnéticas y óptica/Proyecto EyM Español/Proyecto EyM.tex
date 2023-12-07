@@ -127,11 +127,11 @@
 
         En la práctica, una aproximación real a un solenoide es un alambre aislado, de longitud finita, enrollado en forma de hélice (bobina), por el que circula una corriente eléctrica. Cuando esto sucede, se genera un campo magnético dentro de la bobina tanto más uniforme cuanto más larga sea la bobina.
 
-        En el caso de un solenoide infinito en el vacío, se puede obtener el módulo del campo magnético en el eje axial con la ecuación (\ref{eq: campoMagneticoSolenoideInfinito}), donde $\mu_0$ es la constante de permeabilidad magnética en el vacío, N el número de espiras del solenoide, I la corriente que circula, y l la longitud total del solenoide.
+        En el caso de un solenoide infinito en el vacío, se puede obtener el módulo del campo magnético en el eje axial con la ecuación (\ref{eq: campoMagneticoSolenoideInfinito}), donde $\mu_0$ es la constante de permeabilidad magnética en el vacío, N el número de espiras del solenoide, I la corriente que circula, y L la longitud total del solenoide.
 
         \begin{equation}
             \label{eq: campoMagneticoSolenoideInfinito}
-            B_x = \frac{\mu_0 N I}{l}
+            B_x = \frac{\mu_0 N I}{L}
         \end{equation}
 
     \subsection*{Campo magnético de un solenoide finito en el vacío}
@@ -140,10 +140,10 @@
 
         \begin{equation}
             \label{eq: campoMagneticoSolenoideFinito}
-            B_x = \frac{\mu_0 N I}{2l} \left[ \frac{L/2 - x}{\sqrt{(L/2 - x)^2 + r^2}} + \frac{L/2 + x}{\sqrt{(L/2 + x)^2 + r^2}} \right]
+            B_x = \frac{\mu_0 N I}{2L} \left[ \frac{L/2 - x}{\sqrt{(L/2 - x)^2 + r^2}} + \frac{L/2 + x}{\sqrt{(L/2 + x)^2 + r^2}} \right]
         \end{equation}
 
-    \subsection*{Campo magnético de un solenoide con un núcleo ferromagnético}
+    \subsection*{Campo magnético de un solenoide con núcleo ferromagnético}
 
         Las ecuaciones que hemos discutido hasta ahora son válidas para solenoides en el vacío, lo que significa que la permeabilidad del campo magnético es la misma que la del vacío, $\mu_0$.
 
@@ -151,7 +151,7 @@
 
         \begin{equation}
             \label{eq: campoMagneticoSolenoideInfinitoRelativo}
-            B_x = \frac{\mu_r\mu_0 N I}{l}
+            B_x = \frac{\mu_r\mu_0 N I}{L}
         \end{equation}
 
         En la mayoría de los solenoides, éste no se encuentra sumergido en un material de mayor permeabilidad, si no que parte del espacio alrededor del solenoide tiene el material de mayor permeabilidad, y parte del espacio alrededor es simplemente aire, que se comporta muy parecido al vacío. En ese caso, el efecto completo del material de mayor permeabilidad no se ve, si no que va a existir una permabilidad efectiva, o aparente, $\mu_{ef}$ de manera que $1 \leq \mu_{ef} \leq \mu_r$.
@@ -160,23 +160,23 @@
 
         \begin{equation}
             \label{eq: campoMagneticoSolenoideInfinitoEfectivo}
-            B_x = \frac{\mu_{ef}\mu_0 N I}{l}
+            B_x = \frac{\mu_{ef}\mu_0 N I}{L}
         \end{equation}
 
-    \subsection*{Campo magnético de un solenoide finito con un núcleo ferromagnético}
+    \subsection*{Campo magnético de un solenoide finito con núcleo ferromagnético}
 
         Si juntamos lo discutido anteriormente sobre el solenoide finito y el núcleo ferromagnético, llegamos a la ecuación (\ref{eq: campoMagneticoSolenoideFinitoEfectivo}).
 
         \begin{equation}
             \label{eq: campoMagneticoSolenoideFinitoEfectivo}
-            B_x = \frac{\mu_{ef}\mu_0 N I}{2l} \left[ \frac{L/2 - x}{\sqrt{(L/2 - x)^2 + r^2}} + \frac{L/2 + x}{\sqrt{(L/2 + x)^2 + r^2}} \right]
+            B_x = \frac{\mu_{ef}\mu_0 N I}{2L} \left[ \frac{L/2 - x}{\sqrt{(L/2 - x)^2 + r^2}} + \frac{L/2 + x}{\sqrt{(L/2 + x)^2 + r^2}} \right]
         \end{equation}
 
         En los extremos del solenoide (obtención de la ecuación en el apéndice A), el campo magnético es igual a la ecuación (\ref{eq: campoMagneticoSolenoideFinitoEfectivoExtremos}).
 
         \begin{equation}
             \label{eq: campoMagneticoSolenoideFinitoEfectivoExtremos}
-            B_x = \frac{\mu_{ef}\mu_0 N I}{2l} \left[ \frac{L}{\sqrt{L^2 + r^2}} \right]
+            B_x = \frac{\mu_{ef}\mu_0 N I}{2\sqrt{L^2 + r^2}}
         \end{equation}
 
         Como se esperaría de un sistema en donde la dirección negativa y positiva es arbitraria y no modifica nada, los campos magnéticos son simétricos respecto al punto central del solenoide.
@@ -213,35 +213,43 @@
 \section*{Apéndice A - Campo magnético en los extremos del \\solenoide}
 
     \begin{equation*}
-        B_x = \frac{\mu_{ef}\mu_0 N I}{2l} \left[ \frac{L/2 - x}{\sqrt{(L/2 - x)^2 + r^2}} + \frac{L/2 + x}{\sqrt{(L/2 + x)^2 + r^2}} \right]
+        B_x = \frac{\mu_{ef}\mu_0 N I}{2L} \left[ \frac{L/2 - x}{\sqrt{(L/2 - x)^2 + r^2}} + \frac{L/2 + x}{\sqrt{(L/2 + x)^2 + r^2}} \right]
     \end{equation*}
 
     En el extremo izquierdo ($x=-L/2$)
 
     \begin{equation*}
-        B_x = \frac{\mu_{ef}\mu_0 N I}{2l} \left[ \frac{L/2 - (-L/2)}{\sqrt{(L/2 - (-L/2))^2 + r^2}} + \frac{L/2 + (-L/2)}{\sqrt{(L/2 + (-L/2))^2 + r^2}} \right]
+        B_x = \frac{\mu_{ef}\mu_0 N I}{2L} \left[ \frac{L/2 - (-L/2)}{\sqrt{(L/2 - (-L/2))^2 + r^2}} + \frac{L/2 + (-L/2)}{\sqrt{(L/2 + (-L/2))^2 + r^2}} \right]
     \end{equation*}
 
     \begin{equation*}
-        B_x = \frac{\mu_{ef}\mu_0 N I}{2l} \left[ \frac{L/2 + L/2}{\sqrt{(L/2 + L/2)^2 + r^2}} + \frac{L/2 - L/2}{\sqrt{(L/2 - L/2)^2 + r^2}} \right]
+        B_x = \frac{\mu_{ef}\mu_0 N I}{2L} \left[ \frac{L/2 + L/2}{\sqrt{(L/2 + L/2)^2 + r^2}} + \frac{L/2 - L/2}{\sqrt{(L/2 - L/2)^2 + r^2}} \right]
     \end{equation*}
 
     \begin{equation*}
-        B_x = \frac{\mu_{ef}\mu_0 N I}{2l} \left[ \frac{L}{\sqrt{L^2 + r^2}} \right]
+        B_x = \frac{\mu_{ef}\mu_0 N I}{2L} \left[ \frac{L}{\sqrt{L^2 + r^2}} \right]
+    \end{equation*}
+
+    \begin{equation*}
+        B_x = \frac{\mu_{ef}\mu_0 N I}{2\sqrt{L^2 + r^2}}
     \end{equation*}
 
 De manera análoga en el extremo derecho ($x=L/2$)
 
     \begin{equation*}
-        B_x = \frac{\mu_{ef}\mu_0 N I}{2l} \left[ \frac{L/2 - (L/2)}{\sqrt{(L/2 - (L/2))^2 + r^2}} + \frac{L/2 + (L/2)}{\sqrt{(L/2 + (L/2))^2 + r^2}} \right]
+        B_x = \frac{\mu_{ef}\mu_0 N I}{2L} \left[ \frac{L/2 - (L/2)}{\sqrt{(L/2 - (L/2))^2 + r^2}} + \frac{L/2 + (L/2)}{\sqrt{(L/2 + (L/2))^2 + r^2}} \right]
     \end{equation*}
 
     \begin{equation*}
-        B_x = \frac{\mu_{ef}\mu_0 N I}{2l} \left[ \frac{L/2 - L/2}{\sqrt{(L/2 - L/2)^2 + r^2}} + \frac{L/2 + L/2}{\sqrt{(L/2 + L/2)^2 + r^2}} \right]
+        B_x = \frac{\mu_{ef}\mu_0 N I}{2L} \left[ \frac{L/2 - L/2}{\sqrt{(L/2 - L/2)^2 + r^2}} + \frac{L/2 + L/2}{\sqrt{(L/2 + L/2)^2 + r^2}} \right]
     \end{equation*}
 
     \begin{equation*}
-        B_x = \frac{\mu_{ef}\mu_0 N I}{2l} \left[ \frac{L}{\sqrt{L^2 + r^2}} \right]
+        B_x = \frac{\mu_{ef}\mu_0 N I}{2L} \left[ \frac{L}{\sqrt{L^2 + r^2}} \right]
+    \end{equation*}
+    
+    \begin{equation*}
+        B_x = \frac{\mu_{ef}\mu_0 N I}{2\sqrt{L^2 + r^2}}
     \end{equation*}
 
 \end{document}

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1701904654 "c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Proyecto EyM Español/Proyecto EyM.tex" "output/Proyecto EyM.pdf" "Proyecto EyM" 1701904656 0
+["pdflatex"] 1701905367 "c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Proyecto EyM Español/Proyecto EyM.tex" "output/Proyecto EyM.pdf" "Proyecto EyM" 1701905369 0
   "C:/Users/May/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1701291481 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/May/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1701296624 24212288 8d174e61a698f12b96ac708402e9349b ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -97,10 +97,10 @@
   "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "Fotos/unt.jpg" 1701898563 89159 a7d51e1073ad11a38413e639a27cbc6f ""
-  "Proyecto EyM.tex" 1701904654 11527 ee5806ad0569f57e57c76b2431834b11 ""
-  "c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Proyecto EyM Español/Proyecto EyM.tex" 1701904654 11527 ee5806ad0569f57e57c76b2431834b11 ""
-  "output/Proyecto EyM.aux" 1701904655 1182 4652b3f39373f57fd60c6679d732a9ac "pdflatex"
-  "output/Proyecto EyM.out" 1701904655 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Proyecto EyM.tex" 1701905365 11700 563d9a5cf842d2c8e7d369c25af3a9a0 ""
+  "c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Proyecto EyM Español/Proyecto EyM.tex" 1701905365 11700 563d9a5cf842d2c8e7d369c25af3a9a0 ""
+  "output/Proyecto EyM.aux" 1701905369 1170 1c87d620323f54da9e337d1f76fb3ca6 "pdflatex"
+  "output/Proyecto EyM.out" 1701905368 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "output/Proyecto EyM.aux"
   "output/Proyecto EyM.log"

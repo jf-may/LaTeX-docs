@@ -21,8 +21,6 @@
 \usepackage{booktabs} % Separación en tablas
 \usepackage{multirow} % Multirow en tablas
 \usepackage{hyperref} % Refs como hyperlinks
-\usepackage{subfig}
-\usepackage{subcaption}
 %\usepackage{biblatex} % Bibliografía automática a partir de base bib
 
 %\usepackage{array}
@@ -117,11 +115,7 @@
 
 \section*{Introducción}
 
-    Como sabemos de los efectos magnéticos encontrados día a día, cuando acercamos un imán permanente o un electroimán a un elemento ferromagnético, éste se ve atraído a éste. ¿Pero con qué fuerza es atraído?
-
-    El conocimiento técnico requerido para responder esta pregunta es mayor al que se suele tener cuando se ve por primera vez el tema de magnetismo, así que los libros generales de física no suelen incluir su respuesta. 
     
-    Vimos que se analizan fuerzas magnéticas entre dos materiales los cuales cada uno generan campo magnético. Este informe busca explicar de manera sencilla y concisa cómo podemos estimar esta fuerza entre un generador de campo magnético y un elemento ferromagnético, y usarla para distintas aplicaciones, como un motor rotatorio de solenoide, usado para muchísimas aplicaciones a lo largo del mundo, o motores lineales sincrónicos, que son los usados en los portaaviones para la propulsión de aviones, o en el tren bala de Japón para su movimiento.
 
 \section*{Marco teórico}
 
@@ -132,14 +126,6 @@
         Un solenoide es cualquier dispositivo físico capaz de crear un campo magnético sumamente uniforme e intenso en su interior, y muy débil en el exterior. Un ejemplo teórico es el de una bobina de hilo conductor aislado y enrollado helicoidalmente, de longitud infinita. En ese caso ideal el campo magnético sería uniforme en su interior y fuera sería nulo.
 
         En la práctica, una aproximación real a un solenoide es un alambre aislado, de longitud finita, enrollado en forma de hélice (bobina), por el que circula una corriente eléctrica. Cuando esto sucede, se genera un campo magnético dentro de la bobina tanto más uniforme cuanto más larga sea la bobina.
-
-        \begin{Figure}
-            \centering
-
-            \includegraphics[width=0.5\linewidth]{Solenoide.jpg}
-            \label{fig: solenoide}
-            \captionof{figure}{Solenoide en el que circula corriente. Las líneas azules representan el campo magnético}
-        \end{Figure}
 
         En el caso de un solenoide infinito en el vacío, se puede obtener el módulo del campo magnético en el eje axial con la ecuación (\ref{eq: campoMagneticoSolenoideInfinito}), donde $\mu_0$ es la constante de permeabilidad magnética en el vacío, N el número de espiras del solenoide, I la corriente que circula, y L la longitud total del solenoide.
 
@@ -207,122 +193,11 @@
 
     \subsubsection*{Ferromagnetismo}
 
-        En los materiales ferromagnéticos, las interacciones fuertes entre los momentos magnéticos atómicos los llevan a alinearse paralelamente entre sí, en regiones llamadas \emph{dominios magnéticos}, aún cuando no están en presencia de un campo magnético externo. Dentro de cada dominio, casi todos los momentos magnéticos atómicos son paralelos.
-
-        \begin{Figure}
-            \centering
-            \includegraphics[width=0.4\linewidth]{ferromagnetismo_dominios.jpg}
-            \captionof{figure}{Dominios magnéticos en un material ferromagnético}
-            \label{fig: ferromagnetismo_dominios}
-        \end{Figure}
-
-        Cuando no hay un campo magnético externo aplicado, las magnetizaciones de los dominios están orientadas al azar, pero cuando se aplica un campo externo $\vec{B_0}$, los dominios tienden a ordenarse paralelos al campo. Las fronteras de los dominios también tienden a desplazarse; los dominios magnetizados en dirección del campo crecen, y aquellos que están en otras direcciones disminuyen. La permeabilidad relativa $mu_r$ de los materiales ferromagnéticos es mucho mayor a la unidad, típicamente del rango de 1.000 a 100.000. Por lo tanto, un material ferromagnético como el hierro es fuertemente magnetizado por el campo de un imán permanente o electroimán y es atraído por éste.
-        
-        \begin{Figure}
-            \centering
-            \includegraphics[width=0.6\linewidth]{ferromagnetismo_campoMagneticoAplicado.png}
-            \captionof{figure}{Dominios magnéticos en un material ferromagnético con un campo magnético externo aplicado}
-            \label{fig: ferromagnetismo_campoMagneticoAplicado}
-        \end{Figure}
-
-    \subsection*{Magnetización}
-
-        El campo adicional $\vec{B}$ producido por espiras de corriente microscópicas de los electrones, es proporcional al momento magnético total $\vec{\mu}$ por unidad de volumen V en el material. Esta cantidad vectorial recibe el nombre de magnetización del material.
-
-        \begin{equation}
-            \label{eq: magnetizacion}
-            \vec{M} = \frac{\vec{\mu_{total}}}{V}
-        \end{equation}
-
-        El campo magnético adicional debido a la magnetización del material es igual a $\mu_0 \vec{M}$. Cuando un material de este tipo rodea por completo a un conductor portador de corriente, el campo magnético del material está dado por la ecuación (\ref{eq: campoMagneticoTotal}), donde $\vec{B_0}$ es el campo generado por la corriente en el conductor.
-
-        \begin{equation}
-            \label{eq: campoMagneticoTotal}
-            \vec{B} = \vec{B_0} + \mu_0 \vec{M}
-        \end{equation}
-
-    \subsection*{Fuerza causada por un campo magnético externo a un elemento ferromagnético}
-
-        Una magnetización M dentro de un volumen V encerrado por una superficie S es equivalente a una densidad volumétrica de corriente $J_m = \nabla \times M$ y una densidad superficial de corriente $(M \times n)$. En la ausencia de corrientes macroscópicas, la fuerza magnética total en el cuerpo se puede calcular con la ecuación (\ref{eq: fuerzaMagnetica}).
-
-        \begin{equation}
-            \label{eq: fuerzaMagnetica}
-            F = - \int_{V}^{} (\nabla \cdot M) B_e \ d^3 x + \int_{S}^{} (M \cdot n) B_e \ da
-        \end{equation}
-
-        $B_e$ es la inducción magnética aplicada, sin contar la propia. Si la distribución de la magnetización no es discontinua, la superficie se puede considerar en el infinito, y la fuerza se puede calcular únicamente con la integral de volumen.
-
-        \begin{equation}
-            \label{eq: fuerzaMagneticaReducida}
-            F = - \int_{V}^{} (\nabla \cdot M) B_e \ d^3 x
-        \end{equation}
+        En los materiales ferromagnéticos, las interacciones fuertes entre los momentos magnéticos atómicos los llevan a alinearse paralelamente entre sí, en regiones llamadas \emph{dominios magnéticos}, aún cuando no están en presencia de un campo magnético externo. Dentro de cada uno, casi todos los momentos magnéticos atómicos  
 
 \section*{Materiales, métodos y recolección de datos}
 
-    \subsection*{Motor de solenoide}
-
-        El motor de solenoide fue creado por Darío Edgardo Ponzetti y donado a la facultad.
-
-        Su funcionamiento se basa en un circuito de corriente continua, constituido por una fuente de tensión variable de 1.5 V a 12 V conectada en serie a un solenoide corto, de alambre esmaltado de cobre de 0.6 mm de diámetro. Dicha conexión permite la generación de un campo magnético intenso en el eje de la bobina, originando el desplazamiento de un pistón (núcleo ferromagnético) ubicado coaxialmente dentro de la misma. El resto del equipo consta de un sistema de transmisión que imprime movimiento de rotación durante medio ciclo a un eje conformado tambien por un volante de inercia el cual entregará torque en el restante semiciclo, razón por la cual se incluye al sistema una leva que accionará la bobina y la desconectara mediante un switch “final de carrera”.
-
-        \begin{Figure}
-            \centering
-
-            \includegraphics[width=0.4\linewidth]{motorSolenoide_frente.jpg}
-            \label{fig: motorSolenoide_frente}
-
-        \end{Figure}
-        
-        \begin{Figure}
-            \centering
-            
-            \includegraphics[width=0.4\linewidth]{motorSolenoide_superior.jpg}
-            \label{fig: motorSolenoide_superior}
-
-            \captionof{figure}{Motor solenoide}
-
-        \end{Figure}
-
-    \subsection*{Métodos}
-
-        Utilizando el motor de solenoide, y un voltímetro, se fue variando la tensión proporcionada por la fuente de corriente continua, y se graficó el movimiento lineal del pistón usando Tracker, el cual tiene el mismo período que el movimiento angular del disco de inercia.
-
-        \begin{Figure}
-            \centering
-
-            \includegraphics[width=0.5\linewidth]{mediciones_movimientoLinealCoordenadas.png}
-            \label{fig: mediciones_movimientoLinealCoordenadas}
-            \captionof{figure}{Sistema de coordenadas para la gráfica de movimiento lineal del pistón}
-        \end{Figure}
-
-
-        \begin{Figure}
-            \centering
-
-            \includegraphics[width=0.6\linewidth]{mediciones_movimientoLineal.png}
-            \label{fig: mediciones_movimientoLineal}
-            \captionof{figure}{Gráfica de movimiento lineal del pistón para un valor de 7 V}
-        \end{Figure}
-
-        No nos interesan los valores de movimiento que se encuentren en el eje de las abcisas, ya que estamos ante el supuesto de que el movimiento es coaxial al solenoide.
-
-        Con estos datos medidos, se calculó numéricamente la segunda derivada y se obtuvo la aceleración en función del tiempo.
-
-        \begin{Figure}
-            \centering
-
-            \includegraphics[width=0.6\linewidth]{mediciones_aceleracion.png}
-            \label{fig: mediciones_aceleracion}
-            \captionof{figure}{Gráfica de aceleración en función del tiempo del pistón para un valor de 7 V}
-        \end{Figure}
-
-        Haciendo un promedio de las aceleraciones máximas, podemos obtener la aceleración máxima promedio.
-
-        $a_{max} = 3.47 \ \frac{m}{s^2}$
-
-        Midiendo o estimando la masa, podemos estimar la fuerza máxima que ejerce el electroimán al material ferromagnético.
-
-        Este valor luego se puede comparar a un estimado teórico.
+    
 
 \section*{Resultados}
 

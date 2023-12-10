@@ -1,0 +1,277 @@
+% ------------------------------------------------------------------------------
+% LaTeX template created by
+% Iker Algañaraz, May Juarez F., Gastón A. Lozano S., Belén N. Paz
+% ------------------------------------------------------------------------------
+
+\documentclass[a4paper,12pt]{article}
+
+% ------------------------------------------------------------------------------
+% Packages
+% ------------------------------------------------------------------------------
+\usepackage{anysize} % Márgenes
+\usepackage[hypcap=false, font=small, justification=centering, labelfont=bf]{caption} % Pie de foto/tabla
+\usepackage{multicol} % Columnas
+\usepackage{amsmath} % Fórmulas matemáticas
+\usepackage{amssymb} % Símbolos matemáticos
+\usepackage{amsfonts} % Font matemática
+\usepackage[utf8]{inputenc} % Facilitar la escritura en español
+\usepackage{xcolor} % Color del texto
+\usepackage{graphicx} % Figuras
+\usepackage[spanish,es-tabla]{babel} % Tipografía del idioma
+\usepackage{booktabs} % Separación en tablas
+\usepackage{multirow} % Multirow en tablas
+\usepackage{hyperref} % Refs como hyperlinks
+%\usepackage{biblatex} % Bibliografía automática a partir de base bib
+
+%\usepackage{array}
+%\usepackage{verbatim}% Comentarios multilinea
+%\usepackage{siunitx} % Unidades del sistema internacional
+%\usepackage{fancyhdr} % Personalizar encabezado y pie de pagina
+%\usepackage{longtable} % Tablas largas
+%\usepackage{blindtext} % Lore ipsum
+%\usepackage{soul} % Subrayar
+%\usepackage{grffile}
+%\usepackage{mathrsfs}
+
+% ------------------------------------------------------------------------------
+% Config
+% ------------------------------------------------------------------------------
+\newenvironment{Figure}
+  {\par\medskip\noindent\minipage{\linewidth}}
+  {\endminipage\par\medskip}
+
+\providecommand{\abs}[1]{\lvert#1\rvert} % Valor absoluto
+
+\marginsize{2cm}{2cm}{1cm}{2cm} % pkg: anysize
+
+\graphicspath{{./Fotos/}} % pkg: graphicx
+
+\setlength\columnsep{18pt}
+\setlength\parskip{4pt} \setlength\parindent{0in}
+
+\title{ Interferencia \\ 
+\medskip \large Universidad Nacional de Tucumán}
+\author{May Juarez Ferriol}
+\date{}
+
+% ------------------------------------------------------------------------------
+% Document
+% ------------------------------------------------------------------------------
+\begin{document}
+
+\maketitle
+
+\section*{Interferencia}
+
+    Llamamos interferencia al efecto que se produce al combinar dos o más ondas de luz en un punto del espacio. Para que este efecto ocurra se debe cumplir que las fuentes que generen esas ondas sean coherentes, es decir que \emph{la relación entre las fases de las dos ondas no cambie con el tiempo}, y que las fuentes sean \emph{monocromáticas}.
+
+    Decimos que la interferencia es constructiva si la intensidad de la combinación es mayor que las intensidades individuales. Mientras que decimos que la intereferencia es destructiva si la intensidad total es menor que las intensidades individuales.
+
+    \begin{Figure}
+        \centering
+        \includegraphics[width=0.75\linewidth]{DeduccionInterferencia.jpg}
+        \captionof{figure}{Interferencia para un arreglo de dos rendijas que actuan como fuentes coherentes}
+        \label{fig:DeduccionInterferencia}
+    \end{Figure}
+
+\section*{Patrón de interferencia}
+
+    Supongamos dos fuentes de luz, $S_1$ y $S_2$, separadas por una distancia $d$ tal que $d \approx \lambda$, que producen ondas viajeras simultaneamente y a la misma frecuencia. A un punto $P$ de una pantalla a una distancia $L$ medida perpendicularmente, se obtienen una distancia $r_1$ y $r_2$ a cada una de las fuentes. Vemos que en este arreglo obtenemos máximos de interferencia, es decir interferencia constructiva donde la suma neta de los campos eléctricos (o magnéticos) de ambas ondas emitidas desde $S_1$ y $S_2$ sea mayor a 0. En esos puntos se cumple la ecuación \ref{eq:Deduccion_constructiva}.
+
+    \begin{equation}
+        r_2 - r_1 =  n\lambda, n=0,\pm1, \pm2,...
+        \label{eq:Deduccion_constructiva}
+    \end{equation}
+
+    Si ahora utilizamos una aproximación con angulos $\theta$, encontramos que $ r_2 - r_1 = d \sin\theta $. Entonces reemplazando en la expresión \ref{eq:Deduccion_constructiva}, obtenemos la ecuación \ref{eq:InterConstruc}. Si trabajamos con la aproximación de angulos pequeños ($\theta_{max} \approx 13^o$ ), podemos aproximar las expresiones a la tangente del ángulo $\theta$.
+
+    \begin{equation}
+        \tan \theta \approx \sin \theta =  \frac{n\lambda}{d}
+        \label{eq:InterConstruc}
+    \end{equation}
+
+    La intensidad del patrón de interferencia es de acuerdo al de la figura \ref{fig:Int_Interferencia}.
+
+    \begin{Figure}
+        \centering
+        \includegraphics[width=0.75\linewidth]{Intensidad_interferencia.jpg}
+        \captionof{figure}{Intensidades de un patrón de interferencia de doble rendija}
+        \label{fig:Int_Interferencia}
+    \end{Figure}
+
+    En la realidad, todo patrón de interferencia se verá modulado por un patrón de difracción, por lo que la intensidad que se observaría en realidad es como la de la imágen \ref{fig: patronInterferenciaDifraccion}.
+
+    \begin{Figure}
+        \centering
+        \includegraphics[width=0.5\linewidth]{patronInterferenciaDifraccion.jpg}
+        \captionof{figure}{Intensidades de un patrón de interferencia de doble rendija modulado por un patrón de difracción}
+        \label{fig: patronInterferenciaDifraccion}
+    \end{Figure}
+
+\section*{¿Por qué se observan colores cuando se iluminan ranuras con luz blanca?}
+
+    Cuando la luz blanca incide sobre una serie de ranuras delgadas, como las de una rejilla o una lámina delgada, puede ocurrir un fenómeno conocido como difracción.
+
+    En el contexto de la difracción de luz blanca a través de ranuras, el fenómeno clave es que la luz blanca está compuesta por diferentes longitudes de onda, que corresponden a diferentes colores. Cada longitud de onda se desvía de manera ligeramente diferente al pasar por las ranuras, debido a las diferencias en la difracción para cada color.
+
+    Este proceso de difracción separa las diferentes longitudes de onda y dispersa los colores, creando un patrón de colores en la región donde la luz difractada se proyecta. Este fenómeno es conocido como el espectro de difracción.
+
+    El espectro de difracción generado suele tener un patrón característico, con colores más dispersos en los bordes y colores más centrados en el centro. El ángulo de difracción y la separación entre las ranuras afectan la distribución de los colores en el patrón de difracción.
+
+    \begin{Figure}
+        \centering
+        \includegraphics[width=0.6\linewidth]{Diffraction.png}
+        \captionof{figure}{Difracción de luz blanca}
+        \label{fig: patronDifraccion}
+    \end{Figure}
+
+\section*{Experimento de Young}
+
+    El experimento de Young, realizado por el científico británico Thomas Young en 1801, es un experimento clásico que proporcionó evidencia clave para la teoría ondulatoria de la luz. El experimento demostró el fenómeno de interferencia de la luz, respaldando la idea de que la luz se comporta como una onda.
+
+    Young utilizó luz monocromática, es decir, luz de una sola longitud de onda. Originalmente, utilizó luz proveniente de un solo color de la luz solar, pero hoy en día se realizan experimentos similares con láseres para obtener luz monocromática.
+
+    Young hizo pasar la luz a través de una barrera con dos ranuras estrechas y paralelas. Estas ranuras permiten que la luz pase a través de ellas, creando dos fuentes de ondas coherentes.
+
+    Después de pasar a través de las ranuras, la luz incidía en una pantalla colocada a cierta distancia. En la pantalla, se observaba un patrón de interferencia, con franjas claras y oscuras.
+
+Expresiones Matemáticas:
+
+1. **Separación entre Franjas de Interferencia (d):**
+   \[ d \cdot \sin(\theta) = m \cdot \lambda \]
+   Donde:
+   - \( d \) es la distancia entre las ranuras,
+   - \( \theta \) es el ángulo de desviación,
+   - \( m \) es el número de orden de la franja,
+   - \( \lambda \) es la longitud de onda de la luz.
+
+2. **Distancia entre Franjas en la Pantalla (y):**
+   \[ y = L \cdot \tan(\theta) \]
+   Donde:
+   - \( L \) es la distancia entre las ranuras y la pantalla.
+
+Las expresiones matemáticas son válidas bajo las siguientes condiciones:
+
+- La fuente de luz es monocromática.
+- Las ranuras son suficientemente estrechas para permitir la difracción y la formación de patrones de interferencia.
+- Las ranuras están lo suficientemente separadas para que las ondas de luz provenientes de cada ranura sean coherentes entre sí en la pantalla.
+
+Procedimiento:
+
+    La fuente de luz blanca se colocó a una distancia adecuada de la barrera con doble rendija.
+    La luz blanca pasó a través de la doble rendija, generando patrones de difracción interferencial en la pantalla de observación.
+    Se observaron y registraron los patrones de interferencia resultantes.
+
+Parámetros Experimentales:
+
+%    Longitud de onda de la luz blanca utilizada: λ
+    Distancia entre las rendijas: d
+    Distancia desde la barrera hasta la pantalla de observación: L
+%    Ángulo de difracción: θ
+    Orden de interferencia: m
+
+%Expresiones Matemáticas:
+%El patrón de interferencia en el ángulo θθ para una rendija es dado por la expresión de difracción de una sola rendija:
+
+%I(θ)=I0(sin⁡(β)β)2I(θ)=I0​(βsin(β)​)2
+
+%donde β=πdsin⁡(θ)λβ=λπdsin(θ)​ y I0I0​ es la intensidad máxima.
+
+%Para el patrón de interferencia de dos rendijas, la intensidad total ItotalItotal​ es la suma de las contribuciones de cada rendija más el término de interferencia:
+
+%Itotal(θ)=I(θ,m=0)+2I(θ,m=1)cos⁡(δ)+2I(θ,m=2)cos⁡(2δ)+…Itotal​(θ)=I(θ,m=0)+2I(θ,m=1)cos(δ)+2I(θ,m=2)cos(2δ)+…
+
+%donde δ=2πdsin⁡(θ)λδ=λ2πdsin(θ)​ y mm es el orden de interferencia.
+
+\section*{Cuestionarios}
+
+    \begin{Figure}
+        \centering
+        \includegraphics[width=0.8\linewidth]{quiz.jpg}
+        \label{fig: cuestionarios}
+    \end{Figure}
+
+    \textbf{Quick Quiz 24.1.-} (c) 
+
+    \textbf{Quick Quiz 24.2.-} (c)
+    
+    \textbf{Quick Quiz 24.3.-} (c)
+
+% \begin{thebibliography}{99}
+
+
+
+% \end{thebibliography}
+
+\end{document}
+
+% ------------------------------------------------------------------------------
+% Common references and examples
+% ------------------------------------------------------------------------------
+% 
+% ---------------------------
+% Bibliography
+% ---------------------------
+% \bibitem{} Sears, Zemansky. \emph{Física universitaria}, vol. 2, 14th ed. Pearson Education, 2018.
+% \bibitem{} Hecht, Zajac. \emph{Óptica}, 4th ed. Pearson Education, 2003.
+% \bibitem{} Serway, Jewett. \emph{Physics for Scientists and Engineers}, vol. 2, 6th ed. Brooks Cole, 2004.
+% \bibitem{} Jenkins, White. \emph{Fundamentos de óptica}, 3th ed. Aguilar S.A., 1964.
+%
+% ---------------------------
+% Tables
+% ---------------------------
+% \begin{Figure}
+%     \centering
+%
+%     \begin{tabular}{c|c}
+%         \toprule
+%          & \textit{...} \\
+%          & \textit{[]} \\
+%         \midrule
+%         ... & \multirow{2}{*}{$(... \pm ...)$} \\
+%         ... & \\
+%         ... & \multirow{2}{*}{$(... \pm ...)$} \\
+%         ... & \\ \hline
+%         ... & $(... \pm ...)$ \\
+%         ... & $(... \pm ...)$ \\
+%         \bottomrule
+%     \end{tabular}
+%
+%     \captionof{table}{}
+%     \label{tab:}
+% \end{Figure}
+%
+% \begin{Figure}
+%     \centering
+%
+%     \begin{tabular}{cc}
+%         \toprule
+%         \textit{\textbf{... []}} & \textit{\textbf{$... []}}\\
+%         \midrule
+%         $... \pm ...$ & $... \pm ...$ \\
+%         $... \pm ...$ & $... \pm ...$ \\
+%         \bottomrule
+%     \end{tabular}
+%
+%     \captionof{table}{}
+%     \label{tab:}
+% \end{Figure}
+%
+% ---------------------------
+% Figures
+% ---------------------------
+% \begin{Figure}
+%     \centering
+%     \includegraphics[width=1\linewidth]{.jpg}
+%     \captionof{figure}{}
+%     \label{fig:}
+% \end{Figure}
+%
+% ---------------------------
+% Equations
+% ---------------------------
+% \begin{equation}
+%     \label{eq:}
+%     ...
+% \end{equation}
+%

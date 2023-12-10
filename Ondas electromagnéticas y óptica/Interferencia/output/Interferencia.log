@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.29)  8 DEC 2023 23:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.29)  10 DEC 2023 00:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Proyecto EyM Español/Proyecto EyM.tex"
-(c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Proyecto EyM Español/Proyecto EyM.tex
+**"c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia/Interferencia.tex"
+(c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia/Interferencia.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
 (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -390,76 +390,49 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip57
-) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
-Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count304
-\sf@farskip=\skip58
-\sf@captopadj=\dimen192
-\sf@capskip=\skip59
-\sf@nearskip=\skip60
-\c@subfigure=\count305
-\c@subfigure@save=\count306
-\c@lofdepth=\count307
-\c@subtable=\count308
-\c@subtable@save=\count309
-\c@lotdepth=\count310
-\sf@top=\skip61
-\sf@bottom=\skip62
-) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
-Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
-LaTeX Info: Redefining \subref on input line 189.
-Package subcaption Info: The counter `subfigure' was already defined by
-(subcaption)             \newsubfloat (offered by the subfig package) on input line 238.
-Package subcaption Info: The counter `subtable' was already defined by
-(subcaption)             \newsubfloat (offered by the subfig package) on input line 238.
 ) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count311
+\l__color_backend_stack_int=\count304
 \l__pdf_internal_box=\box99
-) (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.aux
+) (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
-
-
-LaTeX Warning: Label `' multiply defined.
-
 )
-\openout1 = `"Proyecto EyM.aux"'.
+\openout1 = `Interferencia.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
 Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count312
-\scratchdimen=\dimen193
+\scratchcounter=\count305
+\scratchdimen=\dimen192
 \scratchbox=\box100
-\nofMPsegments=\count313
-\nofMParguments=\count314
+\nofMPsegments=\count306
+\nofMParguments=\count307
 \everyMPshowfont=\toks26
-\MPscratchCnt=\count315
-\MPscratchDim=\dimen194
-\MPnumerator=\count316
-\makeMPintoPDFobject=\count317
+\MPscratchCnt=\count308
+\MPscratchDim=\dimen193
+\MPnumerator=\count309
+\makeMPintoPDFobject=\count310
 \everyMPtoPDFconversion=\toks27
 ) (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -467,85 +440,52 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \. on input line 70.
-LaTeX Info: Redefining \% on input line 70.
-Package hyperref Info: Link coloring OFF on input line 70.
- (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.out) (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.out)
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+Package hyperref Info: Link coloring OFF on input line 60.
+ (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.out) (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.out)
 \@outlinefile=\write3
-\openout3 = `"Proyecto EyM.out"'.
+\openout3 = `Interferencia.out'.
 
-<./Fotos/unt.jpg, id=3, 132.2541pt x 169.1118pt>
-File: ./Fotos/unt.jpg Graphic file (type jpg)
-<use ./Fotos/unt.jpg>
-Package pdftex.def Info: ./Fotos/unt.jpg  used on input line 89.
-(pdftex.def)             Requested size: 169.29684pt x 216.48299pt.
- [1
-
-{C:/Users/May/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Fotos/unt.jpg>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 130.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 130.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<./Fotos/Solenoide.jpg, id=11, 602.25pt x 351.3125pt>
-File: ./Fotos/Solenoide.jpg Graphic file (type jpg)
-<use ./Fotos/Solenoide.jpg>
-Package pdftex.def Info: ./Fotos/Solenoide.jpg  used on input line 139.
-(pdftex.def)             Requested size: 241.84843pt x 141.08pt.
+<./Fotos/DeduccionInterferencia.jpg, id=3, 627.84563pt x 271.0125pt>
+File: ./Fotos/DeduccionInterferencia.jpg Graphic file (type jpg)
+<use ./Fotos/DeduccionInterferencia.jpg>
+Package pdftex.def Info: ./Fotos/DeduccionInterferencia.jpg  used on input line 72.
+(pdftex.def)             Requested size: 362.77264pt x 156.59186pt.
+ [1
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.145 
-       [1 <./Fotos/Solenoide.jpg>] [2]
-<./Fotos/ferromagnetismo_dominios.jpg, id=51, 389.20406pt x 350.81062pt>
-File: ./Fotos/ferromagnetismo_dominios.jpg Graphic file (type jpg)
-<use ./Fotos/ferromagnetismo_dominios.jpg>
-Package pdftex.def Info: ./Fotos/ferromagnetismo_dominios.jpg  used on input line 214.
-(pdftex.def)             Requested size: 193.47578pt x 174.39316pt.
- [3]
-<./Fotos/ferromagnetismo_campoMagneticoAplicado.png, id=60, 405.515pt x 125.46875pt>
-File: ./Fotos/ferromagnetismo_campoMagneticoAplicado.png Graphic file (type png)
-<use ./Fotos/ferromagnetismo_campoMagneticoAplicado.png>
-Package pdftex.def Info: ./Fotos/ferromagnetismo_campoMagneticoAplicado.png  used on input line 223.
-(pdftex.def)             Requested size: 290.22107pt x 89.79753pt.
- [4 <./Fotos/ferromagnetismo_dominios.jpg> <./Fotos/ferromagnetismo_campoMagneticoAplicado.png>]
-<./Fotos/motorSolenoide_frente.jpg, id=73, 1084.05pt x 1094.0875pt>
-File: ./Fotos/motorSolenoide_frente.jpg Graphic file (type jpg)
-<use ./Fotos/motorSolenoide_frente.jpg>
-Package pdftex.def Info: ./Fotos/motorSolenoide_frente.jpg  used on input line 271.
-(pdftex.def)             Requested size: 193.47578pt x 195.25781pt.
-<./Fotos/motorSolenoide_superior.jpg, id=74, 1204.5pt x 1606.0pt>
-File: ./Fotos/motorSolenoide_superior.jpg Graphic file (type jpg)
-<use ./Fotos/motorSolenoide_superior.jpg>
-Package pdftex.def Info: ./Fotos/motorSolenoide_superior.jpg  used on input line 279.
-(pdftex.def)             Requested size: 193.47578pt x 257.96999pt.
- [5 <./Fotos/motorSolenoide_frente.jpg>]
-<./Fotos/mediciones_movimientoLinealCoordenadas.png, id=84, 784.9325pt x 539.01375pt>
-File: ./Fotos/mediciones_movimientoLinealCoordenadas.png Graphic file (type png)
-<use ./Fotos/mediciones_movimientoLinealCoordenadas.png>
-Package pdftex.def Info: ./Fotos/mediciones_movimientoLinealCoordenadas.png  used on input line 293.
-(pdftex.def)             Requested size: 241.84843pt x 166.07266pt.
-<./Fotos/mediciones_movimientoLineal.png, id=85, 595.47469pt x 362.10281pt>
-File: ./Fotos/mediciones_movimientoLineal.png Graphic file (type png)
-<use ./Fotos/mediciones_movimientoLineal.png>
-Package pdftex.def Info: ./Fotos/mediciones_movimientoLineal.png  used on input line 302.
-(pdftex.def)             Requested size: 290.22107pt x 176.48158pt.
- [6 <./Fotos/motorSolenoide_superior.jpg> <./Fotos/mediciones_movimientoLinealCoordenadas.png (PNG copy)>]
-<./Fotos/mediciones_aceleracion.png, id=95, 653.8026pt x 505.6491pt>
-File: ./Fotos/mediciones_aceleracion.png Graphic file (type png)
-<use ./Fotos/mediciones_aceleracion.png>
-Package pdftex.def Info: ./Fotos/mediciones_aceleracion.png  used on input line 314.
-(pdftex.def)             Requested size: 290.22107pt x 224.46147pt.
- [7 <./Fotos/mediciones_movimientoLineal.png> <./Fotos/mediciones_aceleracion.png>] [8] [9
-pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.402 \end{document}
-                    ] (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.aux
+{C:/Users/May/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Fotos/DeduccionInterferencia.jpg>]
+<./Fotos/Intensidad_interferencia.jpg, id=26, 609.02531pt x 261.97874pt>
+File: ./Fotos/Intensidad_interferencia.jpg Graphic file (type jpg)
+<use ./Fotos/Intensidad_interferencia.jpg>
+Package pdftex.def Info: ./Fotos/Intensidad_interferencia.jpg  used on input line 97.
+(pdftex.def)             Requested size: 362.77264pt x 156.05318pt.
+<./Fotos/patronInterferenciaDifraccion.jpg, id=28, 279.29344pt x 342.5297pt>
+File: ./Fotos/patronInterferenciaDifraccion.jpg Graphic file (type jpg)
+<use ./Fotos/patronInterferenciaDifraccion.jpg>
+Package pdftex.def Info: ./Fotos/patronInterferenciaDifraccion.jpg  used on input line 106.
+(pdftex.def)             Requested size: 241.84843pt x 296.6186pt.
+ [2 <./Fotos/Intensidad_interferencia.jpg> <./Fotos/patronInterferenciaDifraccion.jpg>]
+<./Fotos/Diffraction.png, id=37, 433.62pt x 262.9825pt>
+File: ./Fotos/Diffraction.png Graphic file (type png)
+<use ./Fotos/Diffraction.png>
+Package pdftex.def Info: ./Fotos/Diffraction.png  used on input line 123.
+(pdftex.def)             Requested size: 290.22107pt x 176.02078pt.
+ [3 <./Fotos/Diffraction.png>]
+<./Fotos/quiz.jpg, id=47, 465.99094pt x 207.02344pt>
+File: ./Fotos/quiz.jpg Graphic file (type jpg)
+<use ./Fotos/quiz.jpg>
+Package pdftex.def Info: ./Fotos/quiz.jpg  used on input line 190.
+(pdftex.def)             Requested size: 386.95897pt x 171.91785pt.
+ [4 <./Fotos/quiz.jpg>] (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -553,25 +493,21 @@ LaTeX Info: Redefining \% on input line 11.
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package rerunfilecheck Info: File `"Proyecto EyM".out' has not changed.
+Package rerunfilecheck Info: File `Interferencia.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13501 strings out of 474587
- 219423 string characters out of 5746645
- 1936558 words of memory out of 5000000
- 35464 multiletter control sequences out of 15000+600000
- 567484 words of font info for 72 fonts, out of 8000000 for 9000
+ 13177 strings out of 474587
+ 212386 string characters out of 5746645
+ 1934558 words of memory out of 5000000
+ 35184 multiletter control sequences out of 15000+600000
+ 567480 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,1023b,467s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.pdf" (10 pages, 1397711 bytes).
+ 75i,6n,79p,737b,460s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.pdf" (4 pages, 325485 bytes).
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 99 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

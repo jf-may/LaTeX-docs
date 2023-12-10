@@ -10,8 +10,6 @@ INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\anysize\anysize.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\anysize\anysize.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
@@ -158,6 +156,14 @@ INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
 INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.aux
 INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.aux
 INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.aux

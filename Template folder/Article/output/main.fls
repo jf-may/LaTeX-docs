@@ -1,7 +1,7 @@
-PWD c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia
+PWD c:\Users\May\LaTeX-docs\Template folder\Article
 INPUT C:\Users\May\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\Interferencia.tex
-OUTPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.log
+INPUT c:\Users\May\LaTeX-docs\Template folder\Article\main.tex
+OUTPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.log
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
@@ -132,10 +132,10 @@ INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniqu
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.aux
-INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.aux
-INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.aux
-OUTPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.aux
+INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.aux
+INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.aux
+INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.aux
+OUTPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.aux
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -144,14 +144,14 @@ INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.out
-INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.out
-INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.out
-INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.out
-INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.out
-INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.out
-OUTPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.out
-OUTPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.pdf
+INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
+INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
+INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
+INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
+INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
+INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
+OUTPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
+OUTPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.pdf
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -172,78 +172,13 @@ INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbo
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
-INPUT .\Fotos\DeduccionInterferencia.jpg
-INPUT .\Fotos\DeduccionInterferencia.jpg
-INPUT .\Fotos\DeduccionInterferencia.jpg
-INPUT .\Fotos\DeduccionInterferencia.jpg
-INPUT .\Fotos\DeduccionInterferencia.jpg
-INPUT .\Fotos\DeduccionInterferencia.jpg
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\May\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT .\Fotos\Intensidad_interferencia.jpg
-INPUT .\Fotos\Intensidad_interferencia.jpg
-INPUT .\Fotos\Intensidad_interferencia.jpg
-INPUT .\Fotos\Intensidad_interferencia.jpg
-INPUT .\Fotos\Intensidad_interferencia.jpg
-INPUT .\Fotos\Intensidad_interferencia.jpg
-INPUT .\Fotos\patronInterferenciaDifraccion.jpg
-INPUT .\Fotos\patronInterferenciaDifraccion.jpg
-INPUT .\Fotos\patronInterferenciaDifraccion.jpg
-INPUT .\Fotos\patronInterferenciaDifraccion.jpg
-INPUT .\Fotos\patronInterferenciaDifraccion.jpg
-INPUT .\Fotos\patronInterferenciaDifraccion.jpg
-INPUT .\Fotos\Diffraction.png
-INPUT .\Fotos\Diffraction.png
-INPUT .\Fotos\Diffraction.png
-INPUT .\Fotos\Diffraction.png
-INPUT .\Fotos\Diffraction.png
-INPUT .\Fotos\Diffraction.png
-INPUT .\Fotos\quiz.jpg
-INPUT .\Fotos\quiz.jpg
-INPUT .\Fotos\quiz.jpg
-INPUT .\Fotos\quiz.jpg
-INPUT .\Fotos\quiz.jpg
-INPUT .\Fotos\quiz.jpg
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.aux
-INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.out
-INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\Interferencia.out
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.aux
+INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
+INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb

@@ -1,7 +1,7 @@
-PWD c:\Users\May\LaTeX-docs\Template folder\Article
+PWD c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia
 INPUT C:\Users\May\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\main.tex
-OUTPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.log
+INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\template.tex
+OUTPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\template.log
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
@@ -10,26 +10,14 @@ INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\anysize\anysize.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\anysize\anysize.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
@@ -44,60 +32,28 @@ INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
@@ -111,8 +67,22 @@ INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\bab
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-es.ini
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
@@ -129,6 +99,10 @@ INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
@@ -137,6 +111,8 @@ INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
@@ -154,22 +130,12 @@ INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunf
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.aux
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.aux
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.aux
-OUTPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.aux
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\template.aux
+INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\template.aux
+INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\template.aux
+OUTPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\template.aux
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -178,23 +144,14 @@ INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
-OUTPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.bcf
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.bbl
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.bbl
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.bbl
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.bbl
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.bbl
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
-OUTPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
-OUTPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.pdf
+INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\template.out
+INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\template.out
+INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\template.out
+INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\template.out
+INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\template.out
+INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\template.out
+OUTPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\template.out
+OUTPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\template.pdf
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -213,19 +170,12 @@ INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\May\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.aux
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.out
-INPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.run.xml
-OUTPUT c:\Users\May\LaTeX-docs\Template folder\Article\output\main.run.xml
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
-INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\template.aux
+INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\template.out
+INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia\output\template.out
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb

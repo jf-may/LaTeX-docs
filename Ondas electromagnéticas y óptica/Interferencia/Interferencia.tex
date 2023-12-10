@@ -63,32 +63,11 @@
 
 \section*{Interferencia}
 
-    Llamamos interferencia al efecto que se produce al combinar dos o más ondas de luz en un punto del espacio. Este efecto es muy complicado de observar por lo chicas que son las longitudes de onda que estamos analizando (entre $4 x 10 m y 7 x 10 m aproximadamente$). Sin embargo, hay dos condiciones que facilitan mucho la visualización de esté fenómeno, y es que las fuentes que generen esas ondas sean coherentes, es decir que \emph{la relación entre las fases de las dos ondas no cambie con el tiempo}, y que las ondas tengan longitudes de onda idénticas.
+    Llamamos interferencia al efecto que se produce al combinar dos o más ondas de luz en un punto del espacio. Este efecto es muy complicado de observar por lo chicas que son las longitudes de onda que estamos analizando (entre $4 \times 10^{-7}\ m$ y $7 \times 10^{-7}\ m$ aproximadamente). Sin embargo, hay dos condiciones que facilitan mucho la visualización de esté fenómeno, y es que las fuentes que generen esas ondas sean coherentes, es decir que \emph{la relación entre las fases de las dos ondas no cambie con el tiempo}, y que las ondas tengan longitudes de onda idénticas.
 
     Decimos que la interferencia es constructiva si la intensidad de la combinación es mayor que las intensidades individuales. Mientras que decimos que la intereferencia es destructiva si la intensidad total es menor que las intensidades individuales.
 
-    \begin{Figure}
-        \centering
-        \includegraphics[width=0.75\linewidth]{DeduccionInterferencia.jpg}
-        \captionof{figure}{Interferencia para un arreglo de dos rendijas que actuan como fuentes coherentes}
-        \label{fig:DeduccionInterferencia}
-    \end{Figure}
-
 \section*{Patrón de interferencia}
-
-    Supongamos dos fuentes de luz, $S_1$ y $S_2$, separadas por una distancia $d$ tal que $d \approx \lambda$, que producen ondas viajeras simultaneamente y a la misma frecuencia. A un punto $P$ de una pantalla a una distancia $L$ medida perpendicularmente, se obtienen una distancia $r_1$ y $r_2$ a cada una de las fuentes. Vemos que en este arreglo obtenemos máximos de interferencia, es decir interferencia constructiva donde la suma neta de los campos eléctricos (o magnéticos) de ambas ondas emitidas desde $S_1$ y $S_2$ sea mayor a 0. En esos puntos se cumple la ecuación \ref{eq:Deduccion_constructiva}.
-
-    \begin{equation}
-        r_2 - r_1 =  n\lambda, n=0,\pm1, \pm2,...
-        \label{eq:Deduccion_constructiva}
-    \end{equation}
-
-    Si ahora utilizamos una aproximación con angulos $\theta$, encontramos que $ r_2 - r_1 = d \sin\theta $. Entonces reemplazando en la expresión \ref{eq:Deduccion_constructiva}, obtenemos la ecuación \ref{eq:InterConstruc}. Si trabajamos con la aproximación de angulos pequeños ($\theta_{max} \approx 13^o$ ), podemos aproximar las expresiones a la tangente del ángulo $\theta$.
-
-    \begin{equation}
-        \tan \theta \approx \sin \theta =  \frac{n\lambda}{d}
-        \label{eq:InterConstruc}
-    \end{equation}
 
     La intensidad del patrón de interferencia es de acuerdo al de la figura \ref{fig:Int_Interferencia}.
 
@@ -129,59 +108,42 @@
 
     El experimento de Young, realizado por el científico británico Thomas Young en 1801, es un experimento clásico que proporcionó evidencia clave para la teoría ondulatoria de la luz. El experimento demostró el fenómeno de interferencia de la luz, respaldando la idea de que la luz se comporta como una onda.
 
-    Young utilizó luz monocromática, es decir, luz de una sola longitud de onda. Originalmente, utilizó luz proveniente de un solo color de la luz solar, pero hoy en día se realizan experimentos similares con láseres para obtener luz monocromática.
+    \begin{Figure}
+        \centering
+        \includegraphics[width=0.5\linewidth]{Young.jpg}
+        \captionof{figure}{Diagrama del experimento de doble rendija de Young}
+        \label{fig: Young}
+    \end{Figure}
 
-    Young hizo pasar la luz a través de una barrera con dos ranuras estrechas y paralelas. Estas ranuras permiten que la luz pase a través de ellas, creando dos fuentes de ondas coherentes.
+    La luz es incidente en una primera pantalla que contiene una rendija $S_0$. Las ondas de luz que salen de esta rendija llegan a la segunda pantalla con dos ranuras estrechas y paralelas $S_1$ y $S_2$. Estas ranuras actuan como dos fuentes de ondas coherentes, ya que las ondas que llegan a cada una vienen del mismo frente de onda y por lo tanto siempre están en fase.
 
     Después de pasar a través de las ranuras, la luz incidía en una pantalla colocada a cierta distancia. En la pantalla, se observaba un patrón de interferencia, con franjas claras y oscuras.
 
-Expresiones Matemáticas:
+    \begin{Figure}
+        \centering
+        \includegraphics[width=0.75\linewidth]{DeduccionInterferencia.jpg}
+        \captionof{figure}{Interferencia para un arreglo de dos rendijas que actuan como fuentes coherentes}
+        \label{fig:DeduccionInterferencia}
+    \end{Figure}
+    
+    Supongamos dos fuentes de luz, $S_1$ y $S_2$, separadas por una distancia $d$ tal que $d \approx \lambda$, que producen ondas viajeras simultaneamente y a la misma frecuencia. A un punto $P$ de una pantalla a una distancia $L$ medida perpendicularmente, se obtienen una distancia $r_1$ y $r_2$ a cada una de las fuentes. Vemos que en este arreglo obtenemos máximos de interferencia, es decir interferencia constructiva donde la suma neta de los campos eléctricos (o magnéticos) de ambas ondas emitidas desde $S_1$ y $S_2$ sea mayor a 0. En esos puntos se cumple la ecuación \ref{eq:Deduccion_constructiva}.
 
-1. **Separación entre Franjas de Interferencia (d):**
-   \[ d \cdot \sin(\theta) = m \cdot \lambda \]
-   Donde:
-   - \( d \) es la distancia entre las ranuras,
-   - \( \theta \) es el ángulo de desviación,
-   - \( m \) es el número de orden de la franja,
-   - \( \lambda \) es la longitud de onda de la luz.
+    \begin{equation}
+        r_2 - r_1 =  m\lambda,\ m=0,\pm1, \pm2,...
+        \label{eq:Deduccion_constructiva}
+    \end{equation}
 
-2. **Distancia entre Franjas en la Pantalla (y):**
-   \[ y = L \cdot \tan(\theta) \]
-   Donde:
-   - \( L \) es la distancia entre las ranuras y la pantalla.
+    Si ahora utilizamos una aproximación con angulos $\theta$, encontramos que $ r_2 - r_1 = d \sin\theta $. Entonces reemplazando en la expresión \ref{eq:Deduccion_constructiva}, obtenemos la ecuación \ref{eq:InterConstruc}. Si trabajamos con la aproximación de angulos pequeños ($\theta_{max} \approx 13^o$ ), podemos aproximar las expresiones a la tangente del ángulo $\theta$.
 
-Las expresiones matemáticas son válidas bajo las siguientes condiciones:
+    \begin{equation}
+        \tan \theta \approx \sin \theta =  \frac{\lambda}{d}\ m
+        \label{eq:InterConstruc}
+    \end{equation}
 
-- La fuente de luz es monocromática.
-- Las ranuras son suficientemente estrechas para permitir la difracción y la formación de patrones de interferencia.
-- Las ranuras están lo suficientemente separadas para que las ondas de luz provenientes de cada ranura sean coherentes entre sí en la pantalla.
-
-Procedimiento:
-
-    La fuente de luz blanca se colocó a una distancia adecuada de la barrera con doble rendija.
-    La luz blanca pasó a través de la doble rendija, generando patrones de difracción interferencial en la pantalla de observación.
-    Se observaron y registraron los patrones de interferencia resultantes.
-
-Parámetros Experimentales:
-
-%    Longitud de onda de la luz blanca utilizada: λ
-    Distancia entre las rendijas: d
-    Distancia desde la barrera hasta la pantalla de observación: L
-%    Ángulo de difracción: θ
-    Orden de interferencia: m
-
-%Expresiones Matemáticas:
-%El patrón de interferencia en el ángulo θθ para una rendija es dado por la expresión de difracción de una sola rendija:
-
-%I(θ)=I0(sin⁡(β)β)2I(θ)=I0​(βsin(β)​)2
-
-%donde β=πdsin⁡(θ)λβ=λπdsin(θ)​ y I0I0​ es la intensidad máxima.
-
-%Para el patrón de interferencia de dos rendijas, la intensidad total ItotalItotal​ es la suma de las contribuciones de cada rendija más el término de interferencia:
-
-%Itotal(θ)=I(θ,m=0)+2I(θ,m=1)cos⁡(δ)+2I(θ,m=2)cos⁡(2δ)+…Itotal​(θ)=I(θ,m=0)+2I(θ,m=1)cos(δ)+2I(θ,m=2)cos(2δ)+…
-
-%donde δ=2πdsin⁡(θ)λδ=λ2πdsin(θ)​ y mm es el orden de interferencia.
+    \begin{equation}
+        y =  \frac{\lambda L}{d}\ m
+        \label{eq: InterConstruc}
+    \end{equation}
 
 \section*{Cuestionarios}
 
@@ -191,17 +153,21 @@ Parámetros Experimentales:
         \label{fig: cuestionarios}
     \end{Figure}
 
-    \textbf{Quick Quiz 24.1.-} (c) Como ya se discutió anteriormente, es necesario que se cumpla la aproximación de ángulos pequeños.
+    \textbf{Quick Quiz 24.1.-} (c) Es necesario que se cumpla la aproximación de ángulos pequeños.
 
-    \textbf{Quick Quiz 24.2.-} (c)
+    \textbf{Quick Quiz 24.2.-} (c) Como se puede ver en la ecuación (\ref{eq: InterConstruc}), los tamaños en la pantalla son inversamente proporcionales a la separación entre las rendijas.
     
-    \textbf{Quick Quiz 24.3.-} (c)
+    \textbf{Quick Quiz 24.3.-} (c) Como se puede ver en la figura \ref{fig: patronDifraccion}, el orden es azul, verde y rojo. Es decir, de mayor longitud de onda a menor longitud de onda.
 
-% \begin{thebibliography}{99}
+\begin{thebibliography}{99}
 
+\bibitem{} R. A. Serway, C. Vuille. \emph{College Physics}, 11th ed. (Cengage, Australia, 2018)
 
+\bibitem{} R. A. Serway, J. W. Jewett. \emph{Physics for Scientists and Engineers with Modern Physics}, 10th ed. (Cengage, Australia, 2017)
 
-% \end{thebibliography}
+\bibitem{} H. D. Young, R. A. Freedman. \emph{Sears and Zemansky's University Physics: with Modern Physics}, 14th ed. (Pearson, Boston, 2016)
+
+\end{thebibliography}
 
 \end{document}
 
@@ -274,4 +240,3 @@ Parámetros Experimentales:
 %     \label{eq:}
 %     ...
 % \end{equation}
-%

@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber output/main"] 1702199799 "output/main.bcf" "output/main.bbl" "output/main" 1702200741 0
-  "output/main.bcf" 1702200741 107256 c8a347bbbffa23f6c5855e74f5368900 "pdflatex"
+["biber output/main"] 1702199799 "output/main.bcf" "output/main.bbl" "output/main" 1702231975 0
+  "output/main.bcf" 1702231975 107256 c8a347bbbffa23f6c5855e74f5368900 "pdflatex"
   (generated)
   "output/main.bbl"
   "output/main.blg"
   (rewritten before read)
-["pdflatex"] 1702200740 "c:/Users/May/LaTeX-docs/Template folder/Article/main.tex" "output/main.pdf" "main" 1702200741 0
+["pdflatex"] 1702231974 "c:/Users/May/LaTeX-docs/Template folder/Article/main.tex" "output/main.pdf" "main" 1702231975 0
   "C:/Users/May/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702200739 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/May/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1701296624 24212288 8d174e61a698f12b96ac708402e9349b ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -13,12 +13,15 @@
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1233951854 928 2dc8d444221b7a635bb58038579b861a ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233951854 940 228d6584342e91276bf566bcf9716b83 ""
+  "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
+  "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr17.tfm" 1136765053 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
@@ -100,13 +103,14 @@
   "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1700599895 12667 e4b5eb11e4b7239e6c8a52bbe074a6c6 ""
+  "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1700599895 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/May/LaTeX-docs/Template folder/Article/main.tex" 1702200739 3966 0a51c287a149ab96afdb195243ad3fe8 ""
-  "main.tex" 1702200739 3966 0a51c287a149ab96afdb195243ad3fe8 ""
-  "output/main.aux" 1702200741 433 437cb7f77eb9cc203441f1bf36360709 "pdflatex"
+  "c:/Users/May/LaTeX-docs/Template folder/Article/main.tex" 1702231973 3999 ece2d0059eec2fed704d76b0d129f137 ""
+  "main.tex" 1702231973 3999 ece2d0059eec2fed704d76b0d129f137 ""
+  "output/main.aux" 1702231975 433 437cb7f77eb9cc203441f1bf36360709 "pdflatex"
   "output/main.bbl" 1702199801 0 d41d8cd98f00b204e9800998ecf8427e "biber output/main"
-  "output/main.out" 1702200741 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "output/main.run.xml" 1702200741 2224 b58fdd43a2e991125a5439c21704f61b "pdflatex"
+  "output/main.out" 1702231975 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "output/main.run.xml" 1702231975 2224 b58fdd43a2e991125a5439c21704f61b "pdflatex"
   (generated)
   "output/main.aux"
   "output/main.bcf"

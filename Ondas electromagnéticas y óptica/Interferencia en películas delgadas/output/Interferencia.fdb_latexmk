@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1702236546 "c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia/Interferencia.tex" "output/Interferencia.pdf" "Interferencia" 1702236548 0
+["pdflatex"] 1702235007 "c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia/Interferencia.tex" "output/Interferencia.pdf" "Interferencia" 1702235008 0
   "C:/Users/May/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702200739 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/May/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1701296624 24212288 8d174e61a698f12b96ac708402e9349b ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -106,10 +106,10 @@
   "Fotos/Young.jpg" 1702231141 34254 3e5def89dd070b3af4fa05dfd3646dd4 ""
   "Fotos/patronInterferenciaDifraccion.jpg" 1702153907 37089 c742990711f16a468a84949b02c7b97b ""
   "Fotos/quiz.jpg" 1702168288 84359 430280734640cee080bdb06e367369b2 ""
-  "Interferencia.tex" 1702236546 11374 654d0b3550d9b4b54e581d62d9a6affe ""
-  "c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia/Interferencia.tex" 1702236546 11374 654d0b3550d9b4b54e581d62d9a6affe ""
-  "output/Interferencia.aux" 1702236548 2198 e64ac7213ae5c743f966a2b2e7f1ac9b "pdflatex"
-  "output/Interferencia.out" 1702236548 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Interferencia.tex" 1702235006 11277 923747b6d34ed84da1036b6c114b5aec ""
+  "c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia/Interferencia.tex" 1702235006 11277 923747b6d34ed84da1036b6c114b5aec ""
+  "output/Interferencia.aux" 1702235008 2184 6b9ec14cbbe6bdf5c26e42d70d6723d0 "pdflatex"
+  "output/Interferencia.out" 1702235008 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "output/Interferencia.aux"
   "output/Interferencia.log"

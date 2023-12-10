@@ -1,0 +1,4 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'output/main.blg'
+[122] biber-MSWIN64:340> INFO - === 
+[161] Biber.pm:419> INFO - Reading 'output/main.bcf'

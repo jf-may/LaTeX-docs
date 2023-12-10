@@ -8,35 +8,31 @@
 % ------------------------------------------------------------------------------
 % Packages and configs
 % ------------------------------------------------------------------------------
-\usepackage{anysize} % Márgenes
+\usepackage{anysize} % Margins
 \marginsize{2cm}{2cm}{1cm}{2cm}
 
-\usepackage[hypcap=false, font=small, justification=centering, labelfont=bf]{caption} % Pie de foto/tabla
-
-\usepackage{multicol} % Columnas
+\usepackage{multicol} % Columns
 \setlength\columnsep{18pt} \setlength\parskip{4pt} \setlength\parindent{0in}
 
-\usepackage{amsmath} % Fórmulas matemáticas
-\usepackage{amssymb} % Símbolos matemáticos
-\usepackage{amsfonts} % Font matemática
-\usepackage[utf8]{inputenc} % Facilitar la escritura en español
-\usepackage{xcolor} % Color del texto
-\usepackage{graphicx} % Figuras
-\usepackage[spanish,es-tabla]{babel} % Tipografía del idioma
-\usepackage{booktabs} % Separación en tablas
-\usepackage{multirow} % Multirow en tablas
-\usepackage{hyperref} % Refs como hyperlinks
-%\usepackage{biblatex} % Bibliografía automática a partir de base bib
+\usepackage{graphicx} % Images
+\graphicspath{{./images/}}
 
-%\usepackage{array}
-%\usepackage{verbatim}% Comentarios multilinea
-%\usepackage{siunitx} % Unidades del sistema internacional
-%\usepackage{fancyhdr} % Personalizar encabezado y pie de pagina
-%\usepackage{longtable} % Tablas largas
-%\usepackage{blindtext} % Lore ipsum
-%\usepackage{soul} % Subrayar
-%\usepackage{grffile}
-%\usepackage{mathrsfs}
+\usepackage[hypcap=false, font=small, justification=centering, labelfont=bf]{caption} % Footnote
+
+\usepackage{amsmath} % Math equations
+\usepackage{amssymb} % Math symbols
+
+\usepackage{biblatex} % Bibliography
+
+\usepackage[spanish,es-tabla]{babel} % Español
+
+\usepackage{hyperref} % Hyperlinks
+
+\usepackage{array} % Tables
+
+\usepackage{fancyhdr} % Heading and subheading
+
+%\usepackage{multirow} % Multirow in tables
 
 % ------------------------------------------------------------------------------
 % Config
@@ -46,8 +42,6 @@
   {\endminipage\par\medskip}
 
 \providecommand{\abs}[1]{\lvert#1\rvert} % Valor absoluto
-
-\graphicspath{{./images/}} % pkg: graphicx
 
 \title{ ... \\ 
 \medskip \large Universidad Nacional de Tucumán}
@@ -61,9 +55,11 @@
 
 \maketitle
 
-\section*{Resumen}
+\begin{abstract}
 
-    
+
+
+\end{abstract} 
 
 \section*{Introducción}
 
@@ -162,4 +158,3 @@
 %     \label{eq:}
 %     ...
 % \end{equation}
-%

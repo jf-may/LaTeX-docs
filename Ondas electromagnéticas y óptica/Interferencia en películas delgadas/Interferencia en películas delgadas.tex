@@ -61,13 +61,86 @@
 
 \maketitle
 
+\section*{Franjas de interferencia}
+
+    \begin{Figure}
+        \centering
+
+        \includegraphics[width=0.5\linewidth]{flint.png}
+        \captionof{figure}{Índice de refracción en función de longitud de onda para varios materiales}
+        \label{fig: nLambda}
+    \end{Figure}
+
+    De la figura \ref{fig: nLambda}, obtenemos los valores:
+
+    \begin{align*}
+        &n = 1.775 \ para \ 400 \ nm\\
+        &n = 1.725 \ para \ 600 \ nm
+    \end{align*}
+
+    Si la película tiene espesor t, la luz tiene incidencia normal y longitud de onda l en la película; si ninguna o si ambas ondas reflejadas en las dos superficies tienen un desplazamiento de fase de medio ciclo por reflexión, las condiciones para que haya interferencia constructiva son las dadas por la ecuación (\ref{eq: interferenciaConstructiva}). \cite{Sears}
+
+    \begin{equation}
+        2t=m \lambda \ \ \ \ (m=0, 1, 2, ...)
+        \label{eq: interferenciaConstructiva}
+    \end{equation}
+
+    En nuestro caso, la longitud de onda estará dada por la ecuación (\ref{eq: lambda}). \cite{Sears}
+
+    \begin{equation}
+        \lambda = \frac{\lambda_0}{n}
+        \label{eq: lambda}
+    \end{equation}
+
+    Por lo tanto, el grosor de la cuña en distintas posiciones será el mostrado en las tablas \ref{tab: flint} y .
+
+    \begin{Figure}
+        \centering
+
+        \begin{tabular}{c|c}
+            Índice de refracción & Longitud de onda [nm]\\
+            1.775 & 225 \\
+            \midrule
+            N$^\circ$ de mínimo & Grosor de cuña [nm] \\
+            0 & 0 \\
+            1 & 112.5 \\
+            2 & 225.0 \\
+            3 & 337.5 \\
+            4 & 450.0 \\
+            5 & 562.5 \\
+        \end{tabular}
+
+        \label{tab: flint}
+    \end{Figure}
+
+    \begin{Figure}
+        \centering
+
+        \begin{tabular}{c|c}
+            \toprule
+            Índice de refracción & Longitud de onda [nm]\\
+            1.725 & 348 \\
+            \midrule
+            N$^\circ$ de mínimo & Grosor de cuña [nm] \\
+            0 & 0 \\
+            1 & 174.0 \\
+            2 & 348.0 \\
+            3 & 522.0 \\
+            4 & 696.0 \\
+            5 & 870.0 \\
+        \end{tabular}
+
+        \captionof{table}{}
+        \label{tab: flint2}
+    \begin{Figure}
+
 \begin{thebibliography}{99}
+
+\bibitem{Sears} H. D. Young, R. A. Freedman. \emph{Sears and Zemansky's University Physics: with Modern Physics}, 14th ed. (Pearson, Boston, 2016), p. 1169, 1172.
 
 \bibitem{} R. A. Serway, C. Vuille. \emph{College Physics}, 11th ed. (Cengage, Australia, 2018)
 
 \bibitem{} R. A. Serway, J. W. Jewett. \emph{Physics for Scientists and Engineers with Modern Physics}, 10th ed. (Cengage, Australia, 2017)
-
-\bibitem{} H. D. Young, R. A. Freedman. \emph{Sears and Zemansky's University Physics: with Modern Physics}, 14th ed. (Pearson, Boston, 2016)
 
 \end{thebibliography}
 

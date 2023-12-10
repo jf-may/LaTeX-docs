@@ -12,7 +12,10 @@
 \marginsize{2cm}{2cm}{1cm}{2cm}
 
 \usepackage[hypcap=false, font=small, justification=centering, labelfont=bf]{caption} % Pie de foto/tabla
+
 \usepackage{multicol} % Columnas
+\setlength\columnsep{18pt} \setlength\parskip{4pt} \setlength\parindent{0in}
+
 \usepackage{amsmath} % Fórmulas matemáticas
 \usepackage{amssymb} % Símbolos matemáticos
 \usepackage{amsfonts} % Font matemática
@@ -44,17 +47,12 @@
 
 \providecommand{\abs}[1]{\lvert#1\rvert} % Valor absoluto
 
- % pkg: anysize
-
-\graphicspath{{./Fotos/}} % pkg: graphicx
-
-\setlength\columnsep{18pt}
-\setlength\parskip{4pt} \setlength\parindent{0in}
+\graphicspath{{./images/}} % pkg: graphicx
 
 \title{ ... \\ 
 \medskip \large Universidad Nacional de Tucumán}
-\author{Iker Algañaraz, May Juarez F., Gastón A. Lozano S., Belén N. Paz}
-\date{}
+\author{May Juarez Ferriol}
+\date{\today}
 
 % ------------------------------------------------------------------------------
 % Document
@@ -66,10 +64,6 @@
 \section*{Resumen}
 
     
-
-\medskip
-
-\begin{multicols*}{2}
 
 \section*{Introducción}
 
@@ -96,8 +90,6 @@
 
 
 % \end{thebibliography}
-
-\end{multicols*}
 
 \end{document}
 

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1702193381 "c:/Users/May/LaTeX-docs/Template folder/Article/main.tex" "output/main.pdf" "main" 1702193382 0
+["pdflatex"] 1702194882 "c:/Users/May/LaTeX-docs/Template folder/Article/main.tex" "output/main.pdf" "main" 1702194883 0
   "C:/Users/May/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702090782 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/May/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1701296624 24212288 8d174e61a698f12b96ac708402e9349b ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -82,10 +82,10 @@
   "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1700599895 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/May/LaTeX-docs/Template folder/Article/main.tex" 1702193381 4590 8b32152f477573c70fb141c141f7a715 ""
-  "main.tex" 1702193381 4590 8b32152f477573c70fb141c141f7a715 ""
-  "output/main.aux" 1702193382 324 60b176423d84ba918ebf06eb83270543 "pdflatex"
-  "output/main.out" 1702193382 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "c:/Users/May/LaTeX-docs/Template folder/Article/main.tex" 1702194882 4481 8bd0406f424211ec57b56ae5af5a8cfe ""
+  "main.tex" 1702194882 4481 8bd0406f424211ec57b56ae5af5a8cfe ""
+  "output/main.aux" 1702194883 324 15225c1e4c578f29089c1849f8b2e87e "pdflatex"
+  "output/main.out" 1702194883 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "output/main.aux"
   "output/main.log"

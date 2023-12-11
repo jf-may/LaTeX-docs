@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1702090786 "c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Proyecto EyM Español/Proyecto EyM.tex" "output/Proyecto EyM.pdf" "Proyecto EyM" 1702090789 0
-  "C:/Users/May/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702090782 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1702269929 "c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Proyecto EyM Español/Proyecto EyM.tex" "output/Proyecto EyM.pdf" "Proyecto EyM" 1702269931 0
+  "C:/Users/May/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702200739 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/May/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1701296624 24212288 8d174e61a698f12b96ac708402e9349b ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -37,6 +37,7 @@
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1247596667 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247596667 36118 fad905eba93cff5bce1e185fe980a177 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -115,10 +116,10 @@
   "Fotos/motorSolenoide_frente.jpg" 1701952431 102698 83be40897c9595da3367f390d0314ce8 ""
   "Fotos/motorSolenoide_superior.jpg" 1701952431 189402 e1e0e4afd246ea0105b7263407661c3a ""
   "Fotos/unt.jpg" 1701898563 89159 a7d51e1073ad11a38413e639a27cbc6f ""
-  "Proyecto EyM.tex" 1702090784 23007 16426ad074d9e89d44914e843033f0ab ""
-  "c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Proyecto EyM Español/Proyecto EyM.tex" 1702090784 23007 16426ad074d9e89d44914e843033f0ab ""
-  "output/Proyecto EyM.aux" 1702090789 4075 93841ebe31bf569dfca2b7523e45d208 "pdflatex"
-  "output/Proyecto EyM.out" 1702090788 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Proyecto EyM.tex" 1702269929 26529 d3d201780fef7c7e2dc08b395df9ab68 ""
+  "c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Proyecto EyM Español/Proyecto EyM.tex" 1702269929 26529 d3d201780fef7c7e2dc08b395df9ab68 ""
+  "output/Proyecto EyM.aux" 1702269931 4125 2e14b4e459ca19397006a1876686e9ed "pdflatex"
+  "output/Proyecto EyM.out" 1702269930 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "output/Proyecto EyM.aux"
   "output/Proyecto EyM.log"

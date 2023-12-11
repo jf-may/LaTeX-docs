@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.29)  8 DEC 2023 23:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.29)  11 DEC 2023 01:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -419,10 +419,6 @@ File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
 ) (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
-
-
-LaTeX Warning: Label `' multiply defined.
-
 )
 \openout1 = `"Proyecto EyM.aux"'.
 
@@ -499,15 +495,14 @@ Package pdftex.def Info: ./Fotos/Solenoide.jpg  used on input line 139.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.145 
-       [1 <./Fotos/Solenoide.jpg>] [2]
-<./Fotos/ferromagnetismo_dominios.jpg, id=51, 389.20406pt x 350.81062pt>
+l.143 
+       [1] [2 <./Fotos/Solenoide.jpg>] [3]
+<./Fotos/ferromagnetismo_dominios.jpg, id=58, 389.20406pt x 350.81062pt>
 File: ./Fotos/ferromagnetismo_dominios.jpg Graphic file (type jpg)
 <use ./Fotos/ferromagnetismo_dominios.jpg>
 Package pdftex.def Info: ./Fotos/ferromagnetismo_dominios.jpg  used on input line 214.
 (pdftex.def)             Requested size: 193.47578pt x 174.39316pt.
- [3]
-<./Fotos/ferromagnetismo_campoMagneticoAplicado.png, id=60, 405.515pt x 125.46875pt>
+<./Fotos/ferromagnetismo_campoMagneticoAplicado.png, id=59, 405.515pt x 125.46875pt>
 File: ./Fotos/ferromagnetismo_campoMagneticoAplicado.png Graphic file (type png)
 <use ./Fotos/ferromagnetismo_campoMagneticoAplicado.png>
 Package pdftex.def Info: ./Fotos/ferromagnetismo_campoMagneticoAplicado.png  used on input line 223.
@@ -516,36 +511,31 @@ Package pdftex.def Info: ./Fotos/ferromagnetismo_campoMagneticoAplicado.png  use
 <./Fotos/motorSolenoide_frente.jpg, id=73, 1084.05pt x 1094.0875pt>
 File: ./Fotos/motorSolenoide_frente.jpg Graphic file (type jpg)
 <use ./Fotos/motorSolenoide_frente.jpg>
-Package pdftex.def Info: ./Fotos/motorSolenoide_frente.jpg  used on input line 271.
+Package pdftex.def Info: ./Fotos/motorSolenoide_frente.jpg  used on input line 270.
 (pdftex.def)             Requested size: 193.47578pt x 195.25781pt.
-<./Fotos/motorSolenoide_superior.jpg, id=74, 1204.5pt x 1606.0pt>
+ [5]
+<./Fotos/motorSolenoide_superior.jpg, id=85, 1204.5pt x 1606.0pt>
 File: ./Fotos/motorSolenoide_superior.jpg Graphic file (type jpg)
 <use ./Fotos/motorSolenoide_superior.jpg>
-Package pdftex.def Info: ./Fotos/motorSolenoide_superior.jpg  used on input line 279.
+Package pdftex.def Info: ./Fotos/motorSolenoide_superior.jpg  used on input line 276.
 (pdftex.def)             Requested size: 193.47578pt x 257.96999pt.
- [5 <./Fotos/motorSolenoide_frente.jpg>]
-<./Fotos/mediciones_movimientoLinealCoordenadas.png, id=84, 784.9325pt x 539.01375pt>
+<./Fotos/mediciones_movimientoLinealCoordenadas.png, id=86, 784.9325pt x 539.01375pt>
 File: ./Fotos/mediciones_movimientoLinealCoordenadas.png Graphic file (type png)
 <use ./Fotos/mediciones_movimientoLinealCoordenadas.png>
-Package pdftex.def Info: ./Fotos/mediciones_movimientoLinealCoordenadas.png  used on input line 293.
+Package pdftex.def Info: ./Fotos/mediciones_movimientoLinealCoordenadas.png  used on input line 287.
 (pdftex.def)             Requested size: 241.84843pt x 166.07266pt.
-<./Fotos/mediciones_movimientoLineal.png, id=85, 595.47469pt x 362.10281pt>
+ [6 <./Fotos/motorSolenoide_frente.jpg> <./Fotos/motorSolenoide_superior.jpg>]
+<./Fotos/mediciones_movimientoLineal.png, id=94, 595.47469pt x 362.10281pt>
 File: ./Fotos/mediciones_movimientoLineal.png Graphic file (type png)
 <use ./Fotos/mediciones_movimientoLineal.png>
-Package pdftex.def Info: ./Fotos/mediciones_movimientoLineal.png  used on input line 302.
-(pdftex.def)             Requested size: 290.22107pt x 176.48158pt.
- [6 <./Fotos/motorSolenoide_superior.jpg> <./Fotos/mediciones_movimientoLinealCoordenadas.png (PNG copy)>]
-<./Fotos/mediciones_aceleracion.png, id=95, 653.8026pt x 505.6491pt>
+Package pdftex.def Info: ./Fotos/mediciones_movimientoLineal.png  used on input line 295.
+(pdftex.def)             Requested size: 241.84843pt x 147.06522pt.
+<./Fotos/mediciones_aceleracion.png, id=96, 653.8026pt x 505.6491pt>
 File: ./Fotos/mediciones_aceleracion.png Graphic file (type png)
 <use ./Fotos/mediciones_aceleracion.png>
-Package pdftex.def Info: ./Fotos/mediciones_aceleracion.png  used on input line 314.
-(pdftex.def)             Requested size: 290.22107pt x 224.46147pt.
- [7 <./Fotos/mediciones_movimientoLineal.png> <./Fotos/mediciones_aceleracion.png>] [8] [9
-pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.402 \end{document}
-                    ] (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.aux
+Package pdftex.def Info: ./Fotos/mediciones_aceleracion.png  used on input line 306.
+(pdftex.def)             Requested size: 266.03474pt x 205.7512pt.
+ [7 <./Fotos/mediciones_movimientoLinealCoordenadas.png (PNG copy)> <./Fotos/mediciones_movimientoLineal.png> <./Fotos/mediciones_aceleracion.png>] [8] [9] [10] (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -553,25 +543,21 @@ LaTeX Info: Redefining \% on input line 11.
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `"Proyecto EyM".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13501 strings out of 474587
- 219423 string characters out of 5746645
- 1936558 words of memory out of 5000000
- 35464 multiletter control sequences out of 15000+600000
+ 13509 strings out of 474587
+ 219542 string characters out of 5746645
+ 1937558 words of memory out of 5000000
+ 35469 multiletter control sequences out of 15000+600000
  567484 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,8n,79p,1023b,467s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.pdf" (10 pages, 1397711 bytes).
+<C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Proyecto EyM Español\output\Proyecto EyM.pdf" (11 pages, 1413662 bytes).
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 500000)
+ 204 PDF objects out of 1000 (max. 8388607)
+ 55 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

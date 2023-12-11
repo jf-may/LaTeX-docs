@@ -113,7 +113,7 @@
 
 \section*{Resumen}
 
-    
+    El objetivo de este informe es el de obtener un modelo para la fuerza que existe entre un generador de campo magnético y un elemento ferromagnético, e intentar analizar esta fuerza en la vida real para ver si el modelo tiene algún tipo de sentido, sin entrar en demasiada profundidad sobre los cálculos específicos. Por limitaciones de tiempo y con el sistema experimental usado, no se llegó a un análisis real del modelo, y quedó en algo teórico con posibilidad de expansión a futuro.
 
 \section*{Introducción}
 
@@ -243,7 +243,7 @@
 
     \subsection*{Fuerza causada por un campo magnético externo a un elemento ferromagnético}
 
-        Una magnetización M dentro de un volumen V encerrado por una superficie S es equivalente a una densidad volumétrica de corriente $J_m = \nabla \times M$ y una densidad superficial de corriente $(M \times n)$. En la ausencia de corrientes macroscópicas, la fuerza magnética total en el cuerpo se puede calcular con la ecuación (\ref{eq: fuerzaMagnetica}).
+        Una magnetización M dentro de un volumen V encerrado por una superficie S es equivalente a una densidad volumétrica de corriente $J_m = \nabla \times M$ y una densidad superficial de corriente $(M \times n)$. En la ausencia de corrientes macroscópicas, la fuerza magnética total en el cuerpo se puede calcular con la ecuación (\ref{eq: fuerzaMagnetica}). \cite{Jackson}
 
         \begin{equation}
             \label{eq: fuerzaMagnetica}
@@ -267,20 +267,15 @@
 
         \begin{Figure}
             \centering
-
             \includegraphics[width=0.4\linewidth]{motorSolenoide_frente.jpg}
             \label{fig: motorSolenoide_frente}
-
         \end{Figure}
         
         \begin{Figure}
             \centering
-            
             \includegraphics[width=0.4\linewidth]{motorSolenoide_superior.jpg}
             \label{fig: motorSolenoide_superior}
-
             \captionof{figure}{Motor solenoide}
-
         \end{Figure}
 
     \subsection*{Métodos}
@@ -289,7 +284,6 @@
 
         \begin{Figure}
             \centering
-
             \includegraphics[width=0.5\linewidth]{mediciones_movimientoLinealCoordenadas.png}
             \label{fig: mediciones_movimientoLinealCoordenadas}
             \captionof{figure}{Sistema de coordenadas para la gráfica de movimiento lineal del pistón}
@@ -298,8 +292,7 @@
 
         \begin{Figure}
             \centering
-
-            \includegraphics[width=0.6\linewidth]{mediciones_movimientoLineal.png}
+            \includegraphics[width=0.5\linewidth]{mediciones_movimientoLineal.png}
             \label{fig: mediciones_movimientoLineal}
             \captionof{figure}{Gráfica de movimiento lineal del pistón para un valor de 7 V}
         \end{Figure}
@@ -310,41 +303,58 @@
 
         \begin{Figure}
             \centering
-
-            \includegraphics[width=0.6\linewidth]{mediciones_aceleracion.png}
+            \includegraphics[width=0.55\linewidth]{mediciones_aceleracion.png}
             \label{fig: mediciones_aceleracion}
             \captionof{figure}{Gráfica de aceleración en función del tiempo del pistón para un valor de 7 V}
         \end{Figure}
+
+\section*{Resultados}
 
         Haciendo un promedio de las aceleraciones máximas, podemos obtener la aceleración máxima promedio.
 
         $a_{max} = 3.47 \ \frac{m}{s^2}$
 
-        Midiendo o estimando la masa, podemos estimar la fuerza máxima que ejerce el electroimán al material ferromagnético.
+        Podemos estimar la masa del pistón usando mediciones de su geometría y la densidad del hierro.
 
-        Este valor luego se puede comparar a un estimado teórico.
+        \begin{align*}
+            &m_p = \pi r^2 l \ \delta_{hierro} \\
+            &m_p = \pi \ (3 \times 10^{-3} \ m)^2 \ 0.05 \ m \ 7870 \ \frac{kg}{m^3} \\
+            &m_p = 0.011 \ kg
+        \end{align*}
 
-\section*{Resultados}
+        Por lo que podemos obtener la fuerza estimada máxima ejercida por el electroimán, usando la segunda ley de Newton.
 
-    
+        $F_{max} = 0.011 \ kg \ 3.47 \ \frac{m}{s^2} $
+
+        $F_{max} = 0.038 \ N$
+
+    \subsection*{Estimado teórico}
+
+        En base a la ecuación (\ref{eq: fuerzaMagneticaReducida}), el objetivo fue el de estimar un rango de valores para la permeabilidad efectiva del nucleo de hierro para obtener la fuerza estimada máxima empírica. Sin embargo, esto es imposible de hacer en este caso, ya que el campo magnético está variando de manera muy compleja a cada momento, dado que el pistón no ocupa toda la longitud del solenoide, si no que varía entre ocupar la mitad de éste y prácticamente nada, cambiando el valor de la permabilidad efectiva y del campo magnético del solenoide.
 
 \section*{Conclusión y discusiones}
 
-    \subsection*{Recapitulación de los objetivos}
-
-
-
     \subsection*{Resumen e implicación de los resultados}
 
+        Se obtuvo empíricamente una fuerza estimada máxima ejercida por el electroimán de 0.038 N.
+        
+        No se pudo comparar este valor con el modelo teórico por una complejidad demasiado grande dada por el sistema experimental.
 
+        Sin embargo, se propone investigar este modelo teórico en futuras investigaciones.
 
     \subsection*{Futuras investigaciones}
 
-        
+        Para futuras investigaciones, sería correcta la construcción de un sistema más preciso para medir la aceleración causada por el electroimán, como un propulsor usando un motor lineal sincrónico, donde se colocan 2 sensores de efecto Hall en el comienzo y el final de un par de solenoides colocados al lado de un raíl en el que estaría un elemento ferromagnético. Estos sensores cumplirían la función de apagar el solenoide cuando el elemento ferromagnético pase por ese sitio (de manera electrónica, en lugar de la manera mecánica del motor de solenoide), y de obtener el tiempo que tarda en moverse del primer sensor al siguiente.
+
+        En el caso de utilizar el mismo sistema del motor de solenoide, sería correcto el usar un pistón más extenso, que en todo momento esté actuando como nucleo del solenoide, ya que en este caso varía entre estar ocupando la mitad del largo del solenoide a estar casi completamente en el exterior, y hace que la permeabilidad efectiva esté cambiando constantemente, y por lo tanto el campo magnético del solenoide.
 
 \section*{Agradecimientos}
 
-    
+    Mis agradecimientos son al profesor Leal Sebastián, el cual me ayudó con la obtención del motor del solenoide, su arreglo, las mediciones que fueron necesarias, con el modelo teórico, y en general con su apoyo en este trabajo.
+
+    También quiero agradecer al profesor Soria Francisco y a la profesora Molina Maria Laura por darme el conocimiento necesario para abordar este tema, y por ser en general muy buenos profesores siempre dispuestos a ayudar.
+
+    Por último quiero agradecer a Paz Belén por ofrecer su compañía y su apoyo moral siempre que era necesario a lo largo de este trabajo y este año.
 
 \section*{Apéndice A - Campo magnético en los extremos del \\solenoide}
 
@@ -372,6 +382,8 @@ Empezando por la ecuación de campo magnético de un solenoide finito con un nú
         B_x = \frac{\mu_{ef}\mu_0 N I}{2\sqrt{L^2 + r^2}}
     \end{equation*}
 
+\newpage
+
 De manera análoga en el extremo derecho ($x=L/2$)
 
     \begin{equation*}
@@ -392,9 +404,11 @@ De manera análoga en el extremo derecho ($x=L/2$)
 
 \begin{thebibliography}{99}
 
-    \bibitem{} D. E. Ponzetti, \emph{Proyecto experimental: Motor solenoide.} (Tucumán, 2018)
+    \bibitem{Motor} D. E. Ponzetti, \emph{Proyecto experimental: Motor solenoide.} (Tucumán, 2018)
 
-    \bibitem{} H. D. Young, R. A. Freedman, \emph{Sears and Zemansky's University Physics: with Modern Physics}, 14th ed. (Pearson, San Francisco, 2015).
+    \bibitem{Sears} H. D. Young, R. A. Freedman, \emph{Sears and Zemansky's University Physics: with Modern Physics}, 14th ed. (Pearson, San Francisco, 2015).
+
+    \bibitem{Jackson} J. D. Jackson, \emph{Classical Electrodynamics}, 3rd ed. (Wiley, New York, 1999).
 
 \end{thebibliography}
 

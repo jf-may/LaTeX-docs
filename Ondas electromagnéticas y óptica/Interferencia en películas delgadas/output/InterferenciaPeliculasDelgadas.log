@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.29)  10 DEC 2023 18:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.29)  10 DEC 2023 20:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia en películas delgadas/Interferencia en películas delgadas.tex"
-(c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia en películas delgadas/Interferencia en películas delgadas.tex
+**"c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia en películas delgadas/InterferenciaPeliculasDelgadas.tex"
+(c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia en películas delgadas/InterferenciaPeliculasDelgadas.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
 (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -394,8 +394,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count304
 \l__pdf_internal_box=\box99
-) (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia en películas delgadas\output\Interferencia en películas delgadas.aux)
-\openout1 = `"Interferencia en películas delgadas.aux"'.
+) (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia en películas delgadas\output\InterferenciaPeliculasDelgadas.aux
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+)
+\openout1 = `InterferenciaPeliculasDelgadas.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
@@ -440,9 +443,9 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 LaTeX Info: Redefining \. on input line 60.
 LaTeX Info: Redefining \% on input line 60.
 Package hyperref Info: Link coloring OFF on input line 60.
- (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia en películas delgadas\output\Interferencia en películas delgadas.out) (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia en películas delgadas\output\Interferencia en películas delgadas.out)
+ (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia en películas delgadas\output\InterferenciaPeliculasDelgadas.out) (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia en películas delgadas\output\InterferenciaPeliculasDelgadas.out)
 \@outlinefile=\write3
-\openout3 = `"Interferencia en películas delgadas.out"'.
+\openout3 = `InterferenciaPeliculasDelgadas.out'.
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
  (C:\Users\May\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
@@ -457,101 +460,31 @@ File: ./Fotos/flint.png Graphic file (type png)
 <use ./Fotos/flint.png>
 Package pdftex.def Info: ./Fotos/flint.png  used on input line 69.
 (pdftex.def)             Requested size: 241.84843pt x 160.9848pt.
+ [1
 
+{C:/Users/May/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Fotos/flint.png>] [2] [3] (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia en películas delgadas\output\InterferenciaPeliculasDelgadas.aux
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+ ***********
+Package rerunfilecheck Info: File `InterferenciaPeliculasDelgadas.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 13143 strings out of 474587
+ 211712 string characters out of 5746645
+ 1935558 words of memory out of 5000000
+ 35152 multiletter control sequences out of 15000+600000
+ 567173 words of font info for 71 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,9n,79p,571b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia en películas delgadas\output\InterferenciaPeliculasDelgadas.pdf" (3 pages, 162083 bytes).
+PDF statistics:
+ 96 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-LaTeX Warning: Reference `fig: nLambda' on page 1 undefined on input line 74.
-
-
-LaTeX Warning: Reference `eq: interferenciaConstructiva' on page 1 undefined on input line 81.
-
-
-LaTeX Warning: Citation `Sears' on page 1 undefined on input line 81.
-
-
-LaTeX Warning: Reference `eq: lambda' on page 1 undefined on input line 88.
-
-
-LaTeX Warning: Citation `Sears' on page 1 undefined on input line 88.
-
-
-LaTeX Warning: Reference `tab: flint' on page 1 undefined on input line 95.
-
-Runaway argument?
-{s \toprule Índice de refracción & Longitud de onda [nm]\\ 1.775 & \ETC.
-c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia en películas delgadas/Interferencia en películas delgadas.tex:115: Paragraph ended before \begin  was complete.
-<to be read again> 
-                   \par 
-l.115 
-      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia en películas delgadas/Interferencia en películas delgadas.tex:116: You can't use `\hrule' here except with leaders.
-\caption@hrule ->\hrule 
-                        \@height \z@ 
-l.116         \captionof{table}{}
-                                 
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia en películas delgadas/Interferencia en películas delgadas.tex:116: Missing number, treated as zero.
-<to be read again> 
-                   \vskip 
-l.116         \captionof{table}{}
-                                 
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia en películas delgadas/Interferencia en películas delgadas.tex:116: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \vskip 
-l.116         \captionof{table}{}
-                                 
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia en películas delgadas/Interferencia en películas delgadas.tex:116: Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.116         \captionof{table}{}
-                                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia en películas delgadas/Interferencia en películas delgadas.tex:116: Missing } inserted.
-<inserted text> 
-                }
-l.116         \captionof{table}{}
-                                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia en películas delgadas/Interferencia en películas delgadas.tex:116: Missing } inserted.
-<inserted text> 
-                }
-l.116         \captionof{table}{}
-                                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia en películas delgadas/Interferencia en películas delgadas.tex:116: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.116         \captionof{table}{}
-                                 
-I'm guessing that you meant to end an alignment 

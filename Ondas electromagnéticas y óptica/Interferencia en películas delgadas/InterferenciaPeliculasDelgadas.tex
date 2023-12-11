@@ -149,13 +149,40 @@
 
     Si $n_a$ y $n_b$ fueran iguales, es decir, los medios tienen el mismo índice de refracción, entonces no va a haber una onda reflejada.
 
+    Por último, se puede analizar que el cociente $\frac{n_a - n_b}{n_a + n_b}$ es siempre menor a 1, es decir que el campo eléctrico reflejado tiene igual o menor amplitud que el incidente en todos los casos.
+
 \section*{Interferómetro de Michelson}
 
+    Un dispositivo experimental que hace uso del fenómeno de la interferencia, es el interferómetro de Michelson (Fig. \ref{fig: interferometro}). Se utiliza para medir longitudes de onda de manera muy precisa, además de otras distancias muy pequeñas.
+
+    El interferómetro de Michelson recibe luz monocromática de una única fuente y la divide en dos ondas que siguen trayectorias distintas, usando un divisor de haz, que consiste en una placa de vidrio con un recubrimiento muy fino de plata en su lado derecho.
+
+    \begin{Figure}
+        \centering
+        \includegraphics[width=0.7\linewidth]{interferometroMichelson.jpg}
+        \captionof{figure}{Interferómetro de Michelson}
+        \label{fig: interferometro}
+    \end{Figure}
+
+    Vamos a analizar las dos trayectorias que toman los rayos al dividirse por el divisor de haz. 
+    
+    Uno de los rayos pasa por el recubrimiento de plata y por una placa compensadora y se refleja en el espejo fijo. Después regresa a través de la placa compensadora, y se refleja en la superficie plateada hacia el observador.
+
+    El otro rayo se refleja en la superficie plateada, luego en el espejo móvil, y por último atraviesa la placa de vidrio central hacia los ojos del observador.
+
+    Si las distancias entre el divisor de haz y los espejos es la misma, o difieren en $k \frac{\lambda}{2}$, $k \epsilon \mathbb{N}$, entonces podremos ver franjas de interferencia.
+
+    Si observamos las posiciones de las franjas a través de un telescopio con un ocular con retículo y $m$ franjas cruzan el retículo al mover el espejo una distancia $y$, entonces podemos obtener con precisión el valor de la longitud de onda con la ecuación (\ref{eq: calculoLambda}).
+
+    \begin{equation}
+        \lambda = \frac{2y}{m}
+        \label{eq: calculoLambda}
+    \end{equation}
 
 
 \begin{thebibliography}{99}
 
-\bibitem{Sears} H. D. Young, R. A. Freedman. \emph{Sears and Zemansky's University Physics: with Modern Physics}, 14th ed. (Pearson, Boston, 2016), p. 1169, 1171, 1172, 1176-1177.
+\bibitem{Sears} H. D. Young, R. A. Freedman. \emph{Sears and Zemansky's University Physics: with Modern Physics}, 14th ed. (Pearson, Boston, 2016), p. 1169, 1171-1172, 1176-1177.
 
 \end{thebibliography}
 

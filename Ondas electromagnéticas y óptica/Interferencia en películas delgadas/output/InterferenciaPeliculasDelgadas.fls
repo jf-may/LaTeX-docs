@@ -198,6 +198,12 @@ INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbo
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\May\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\Fotos\interferometroMichelson.jpg
+INPUT .\Fotos\interferometroMichelson.jpg
+INPUT .\Fotos\interferometroMichelson.jpg
+INPUT .\Fotos\interferometroMichelson.jpg
+INPUT .\Fotos\interferometroMichelson.jpg
+INPUT .\Fotos\interferometroMichelson.jpg
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia en películas delgadas\output\InterferenciaPeliculasDelgadas.aux
 INPUT c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia en películas delgadas\output\InterferenciaPeliculasDelgadas.out
@@ -208,6 +214,8 @@ INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
@@ -224,3 +232,5 @@ INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT C:\Users\May\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb

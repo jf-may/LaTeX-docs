@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1702252509 "c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia en películas delgadas/InterferenciaPeliculasDelgadas.tex" "output/InterferenciaPeliculasDelgadas.pdf" "InterferenciaPeliculasDelgadas" 1702252510 0
+["pdflatex"] 1702262012 "c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia en películas delgadas/InterferenciaPeliculasDelgadas.tex" "output/InterferenciaPeliculasDelgadas.pdf" "InterferenciaPeliculasDelgadas" 1702262014 0
   "C:/Users/May/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702200739 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/May/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1701296624 24212288 8d174e61a698f12b96ac708402e9349b ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -26,6 +26,7 @@
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
+  "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb" 1247596666 37166 8ab3487cbe3ab49ebce74c29ea2418db ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1247596666 35469 dcf3a5f2fc1862f5952e3ee5eb1d98c4 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
@@ -34,6 +35,7 @@
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1247596667 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247596667 36118 fad905eba93cff5bce1e185fe980a177 ""
+  "C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1247596673 34694 870c211f62cb72718a00e353f14f254d ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1699684529 148310 a8058e0ae8913a05f750395bfbda36db ""
@@ -101,10 +103,11 @@
   "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/May/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "Fotos/flint.png" 1702236805 25452 9e4e365dd8fb0dba1d14b5bcbea5099f ""
-  "InterferenciaPeliculasDelgadas.tex" 1702252508 7888 3f5770efe516f6fb88cebd7439ac7d16 ""
-  "c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia en películas delgadas/InterferenciaPeliculasDelgadas.tex" 1702252508 7888 3f5770efe516f6fb88cebd7439ac7d16 ""
-  "output/InterferenciaPeliculasDelgadas.aux" 1702252510 1280 b7590fbded2f3ebf6c5081cce3be9b9c "pdflatex"
-  "output/InterferenciaPeliculasDelgadas.out" 1702252510 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Fotos/interferometroMichelson.jpg" 1702260680 212492 ed994cbe56f947d0b10320a394a16a26 ""
+  "InterferenciaPeliculasDelgadas.tex" 1702262010 9927 c51fb20034555515b167dc3493d72bfc ""
+  "c:/Users/May/LaTeX-docs/Ondas electromagnéticas y óptica/Interferencia en películas delgadas/InterferenciaPeliculasDelgadas.tex" 1702262010 9927 c51fb20034555515b167dc3493d72bfc ""
+  "output/InterferenciaPeliculasDelgadas.aux" 1702262014 1583 03d232521e63a146aefbdd88173105a7 "pdflatex"
+  "output/InterferenciaPeliculasDelgadas.out" 1702262013 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "output/InterferenciaPeliculasDelgadas.aux"
   "output/InterferenciaPeliculasDelgadas.log"

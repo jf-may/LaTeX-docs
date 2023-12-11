@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.29)  10 DEC 2023 20:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.29)  10 DEC 2023 23:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -462,7 +462,13 @@ Package pdftex.def Info: ./Fotos/flint.png  used on input line 69.
 (pdftex.def)             Requested size: 241.84843pt x 160.9848pt.
  [1
 
-{C:/Users/May/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Fotos/flint.png>] [2] [3] (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia en películas delgadas\output\InterferenciaPeliculasDelgadas.aux
+{C:/Users/May/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Fotos/flint.png>] [2]
+<./Fotos/interferometroMichelson.jpg, id=41, 1303.87125pt x 480.79625pt>
+File: ./Fotos/interferometroMichelson.jpg Graphic file (type jpg)
+<use ./Fotos/interferometroMichelson.jpg>
+Package pdftex.def Info: ./Fotos/interferometroMichelson.jpg  used on input line 162.
+(pdftex.def)             Requested size: 338.58632pt x 124.85pt.
+ [3 <./Fotos/interferometroMichelson.jpg (PNG copy)>] (c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia en películas delgadas\output\InterferenciaPeliculasDelgadas.aux
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
 )
@@ -474,17 +480,17 @@ Package rerunfilecheck Info: File `InterferenciaPeliculasDelgadas.out' has not c
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13143 strings out of 474587
- 211712 string characters out of 5746645
- 1935558 words of memory out of 5000000
- 35152 multiletter control sequences out of 15000+600000
+ 13156 strings out of 474587
+ 212131 string characters out of 5746645
+ 1936558 words of memory out of 5000000
+ 35163 multiletter control sequences out of 15000+600000
  567173 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,571b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia en películas delgadas\output\InterferenciaPeliculasDelgadas.pdf" (3 pages, 162083 bytes).
+ 75i,9n,79p,571b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/May/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "c:\Users\May\LaTeX-docs\Ondas electromagnéticas y óptica\Interferencia en películas delgadas\output\InterferenciaPeliculasDelgadas.pdf" (3 pages, 392605 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 111 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
